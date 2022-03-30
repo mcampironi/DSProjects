@@ -1,0 +1,1191 @@
+indice,sport,evento,impianto,nome_intero,inizio,fine
+0,Canottaggio,Batterie Singolo U,Sea Forest Waterway,GENNARO DI MAURO,7/23/2021 1:50,7/23/2021 2:25
+1,Tiro con l'arco,Torneo di qualificazione Ind. D,Yumenoshima Park Archery Field,TATIANA ANDREOLI,7/23/2021 2:00,7/23/2021 4:00
+2,Tiro con l'arco,Torneo di qualificazione Ind. D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/23/2021 2:00,7/23/2021 4:00
+3,Tiro con l'arco,Torneo di qualificazione Ind. D,Yumenoshima Park Archery Field,CHIARA REBAGLIATI,7/23/2021 2:00,7/23/2021 4:00
+4,Canottaggio,Batterie Due di coppia D,Sea Forest Waterway,CHIARA ONDOLI,7/23/2021 4:00,7/23/2021 4:25
+5,Canottaggio,Batterie Due di coppia D,Sea Forest Waterway,ALESSANDRA PATELLI,7/23/2021 4:00,7/23/2021 4:25
+6,Canottaggio,Batterie Quattro di coppia U,Sea Forest Waterway,GIACOMO GENTILI,7/23/2021 4:30,7/23/2021 4:45
+7,Canottaggio,Batterie Quattro di coppia U,Sea Forest Waterway,ANDREA PANIZZA,7/23/2021 4:30,7/23/2021 4:45
+8,Canottaggio,Batterie Quattro di coppia U,Sea Forest Waterway,LUCA RAMBALDI,7/23/2021 4:30,7/23/2021 4:45
+9,Canottaggio,Batterie Quattro di coppia U,Sea Forest Waterway,SIMONE VENIER,7/23/2021 4:30,7/23/2021 4:45
+10,Canottaggio,Batterie Quattro di coppia D,Sea Forest Waterway,STEFANIA GOBBI,7/23/2021 4:50,7/23/2021 5:10
+11,Canottaggio,Batterie Quattro di coppia D,Sea Forest Waterway,VALENTINA ISEPPI,7/23/2021 4:50,7/23/2021 5:10
+12,Canottaggio,Batterie Quattro di coppia D,Sea Forest Waterway,VERONICA LISI,7/23/2021 4:50,7/23/2021 5:10
+13,Canottaggio,Batterie Quattro di coppia D,Sea Forest Waterway,ALESSANDRA MONTESANO,7/23/2021 4:50,7/23/2021 5:10
+14,Tiro con l'arco,Torneo di qualificazione Ind. U,Yumenoshima Park Archery Field,MAURO NESPOLI,7/23/2021 6:00,7/23/2021 8:00
+15,Tiro a Segno,Qualificazioni Carabina 10m D,Asaka Shooting Range,SOFIA CECCARELLO,7/24/2021 1:30,7/24/2021 3:45
+16,Scherma,Trentaduesimi Spada D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/24/2021 2:00,7/24/2021 2:30
+17,Scherma,Trentaduesimi Spada D,Makuhari Messe Hall B,FEDERICA ISOLA,7/24/2021 2:00,7/24/2021 2:30
+18,Scherma,Trentaduesimi Spada D,Makuhari Messe Hall B,MARA NAVARRIA,7/24/2021 2:00,7/24/2021 2:30
+19,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,SIMONE ANZANI,7/24/2021 2:00,7/24/2021 3:45
+20,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,MASSIMO COLACI,7/24/2021 2:00,7/24/2021 3:45
+21,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,GIANLUCA GALASSI,7/24/2021 2:00,7/24/2021 3:45
+22,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,SIMONE GIANNELLI,7/24/2021 2:00,7/24/2021 3:45
+23,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,OSMANY JUANTORENA,7/24/2021 2:00,7/24/2021 3:45
+24,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,JIRI KOVAR,7/24/2021 2:00,7/24/2021 3:45
+25,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,DANIELE LAVIA,7/24/2021 2:00,7/24/2021 3:45
+26,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,ALESSANDRO MICHIELETTO,7/24/2021 2:00,7/24/2021 3:45
+27,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,MATTEO PIANO,7/24/2021 2:00,7/24/2021 3:45
+28,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,RICCARDO SBERTOLI,7/24/2021 2:00,7/24/2021 3:45
+29,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,LUCA VETTORI,7/24/2021 2:00,7/24/2021 3:45
+30,Pallavolo,Italia-Canada / Gruppo A U,Ariake Arena,IVAN ZAYTSEV,7/24/2021 2:00,7/24/2021 3:45
+31,Canottaggio,Batterie Due senza D,Sea Forest Waterway,AISHA ROCEK,7/24/2021 2:20,7/24/2021 2:50
+32,Canottaggio,Batterie Due senza D,Sea Forest Waterway,KIRI TONTODONATI,7/24/2021 2:20,7/24/2021 2:50
+33,Scherma,Trentaduesimi Sciabola U,Makuhari Messe Hall B,ENRICO BERRÈ,7/24/2021 2:30,7/24/2021 2:55
+34,Scherma,Trentaduesimi Sciabola U,Makuhari Messe Hall B,LUCA CURATOLI,7/24/2021 2:30,7/24/2021 2:55
+35,Scherma,Trentaduesimi Sciabola U,Makuhari Messe Hall B,LUIGI SAMELE,7/24/2021 2:30,7/24/2021 2:55
+36,Tiro con l'arco,Ottavi Squadra Mista,Yumenoshima Park Archery Field,MAURO NESPOLI,7/24/2021 2:30,7/24/2021 5:05
+37,Tiro con l'arco,Ottavi Squadra Mista,Yumenoshima Park Archery Field,CHIARA REBAGLIATI,7/24/2021 2:30,7/24/2021 5:05
+38,Canottaggio,Batterie Due senza U,Sea Forest Waterway,GIOVANNI ABAGNALE,7/24/2021 2:20,7/24/2021 2:50
+39,Canottaggio,Batterie Due senza U,Sea Forest Waterway,MARCO DI COSTANZO,7/24/2021 2:20,7/24/2021 2:50
+40,Scherma,Sedicesimi Spada D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/24/2021 2:55,7/24/2021 4:55
+41,Scherma,Sedicesimi Spada D,Makuhari Messe Hall B,FEDERICA ISOLA,7/24/2021 2:55,7/24/2021 4:55
+42,Scherma,Sedicesimi Spada D,Makuhari Messe Hall B,MARA NAVARRIA,7/24/2021 2:55,7/24/2021 4:55
+43,Canottaggio,Batterie Due di coppia pesi leggeri D,Sea Forest Waterway,FEDERICA CESARINI,7/24/2021 3:20,7/24/2021 3:40
+44,Canottaggio,Batterie Due di coppia pesi leggeri D,Sea Forest Waterway,VALENTINA RODINI,7/24/2021 3:20,7/24/2021 3:40
+45,Taekwondo,Ottavi -58 kg U,Makuhari Messe Hall A,VITO DELL'AQUILA,7/24/2021 3:28,7/24/2021 7:00
+46,Canottaggio,Batterie Due di coppia pesi leggeri U,Sea Forest Waterway,STEFANO OPPO,7/24/2021 3:50,7/24/2021 4:20
+47,Canottaggio,Batterie Due di coppia pesi leggeri U,Sea Forest Waterway,PIETRO WILLY RUTA,7/24/2021 3:50,7/24/2021 4:20
+48,Ciclismo,Strada - Corsa in linea U,Fuji International Speedway,ALBERTO BETTIOL,7/24/2021 4:00,7/24/2021 11:15
+49,Ciclismo,Strada - Corsa in linea U,Fuji International Speedway,DAMIANO CARUSO,7/24/2021 4:00,7/24/2021 11:15
+50,Ciclismo,Strada - Corsa in linea U,Fuji International Speedway,GIULIO CICCONE,7/24/2021 4:00,7/24/2021 11:15
+51,Ciclismo,Strada - Corsa in linea U,Fuji International Speedway,GIANNI MOSCON,7/24/2021 4:00,7/24/2021 11:15
+52,Ciclismo,Strada - Corsa in linea U,Fuji International Speedway,VINCENZO NIBALI,7/24/2021 4:00,7/24/2021 11:15
+53,Tennis,Primo Turno Doppio D,Ariake Tennis Park,SARA ERRANI,7/24/2021 4:00,7/24/2021 13:00
+54,Tennis,Primo Turno Doppio D,Ariake Tennis Park,JASMINE PAOLINI,7/24/2021 4:00,7/24/2021 13:00
+55,Tennis,Primo Turno Singolo D,Ariake Tennis Park,SARA ERRANI,7/24/2021 4:00,7/24/2021 13:00
+56,Tennis,Primo Turno Singolo D,Ariake Tennis Park,CAMILA GIORGI,7/24/2021 4:00,7/24/2021 13:00
+57,Tennis,Primo Turno Singolo D,Ariake Tennis Park,JASMINE PAOLINI,7/24/2021 4:00,7/24/2021 13:00
+58,Tennis,Primo Turno Singolo U,Ariake Tennis Park,FABIO FOGNINI,7/24/2021 4:00,7/24/2021 13:00
+59,Tennis,Primo Turno Singolo U,Ariake Tennis Park,LORENZO MUSETTI,7/24/2021 4:00,7/24/2021 13:00
+60,Tennis,Primo Turno Singolo U,Ariake Tennis Park,LORENZO SONEGO,7/24/2021 4:00,7/24/2021 13:00
+61,Canottaggio,Batterie Quattro senza U,Sea Forest Waterway,MATTEO CASTALDO,7/24/2021 4:40,7/24/2021 5:20
+62,Canottaggio,Batterie Quattro senza U,Sea Forest Waterway,MATTEO LODO,7/24/2021 4:40,7/24/2021 5:20
+63,Canottaggio,Batterie Quattro senza U,Sea Forest Waterway,BRUNO ROSETTI,7/24/2021 4:40,7/24/2021 5:20
+64,Canottaggio,Batterie Quattro senza U,Sea Forest Waterway,GIUSEPPE VICINO,7/24/2021 4:40,7/24/2021 5:20
+65,Scherma,Sedicesimi Sciabola U,Makuhari Messe Hall B,ENRICO BERRÈ,7/24/2021 4:55,7/24/2021 6:20
+66,Scherma,Sedicesimi Sciabola U,Makuhari Messe Hall B,LUIGI SAMELE,7/24/2021 4:55,7/24/2021 6:20
+67,Tiro a Segno,Qualificazioni Carabina 10m U,Asaka Shooting Range,PAOLO MONNA,7/24/2021 6:00,7/24/2021 8:30
+68,Scherma,Ottavi spada D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/24/2021 6:35,7/24/2021 7:30
+69,Scherma,Ottavi spada D,Makuhari Messe Hall B,FEDERICA ISOLA,7/24/2021 6:35,7/24/2021 7:30
+70,Scherma,Ottavi spada D,Makuhari Messe Hall B,MARA NAVARRIA,7/24/2021 6:35,7/24/2021 7:30
+71,Taekwondo,Quarti -58 kg U,Makuhari Messe Hall A,VITO DELL'AQUILA,7/24/2021 7:15,7/24/2021 9:00
+72,Scherma,Ottavi Sciabola U,Makuhari Messe Hall B,ENRICO BERRÈ,7/24/2021 7:35,7/24/2021 8:25
+73,Scherma,Ottavi Sciabola U,Makuhari Messe Hall B,LUIGI SAMELE,7/24/2021 7:35,7/24/2021 8:25
+74,Scherma,Quarti Spada D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/24/2021 8:25,7/24/2021 8:55
+75,Scherma,Quarti Spada D,Makuhari Messe Hall B,FEDERICA ISOLA,7/24/2021 8:25,7/24/2021 8:55
+76,Scherma,Quarti Sciabola U,Makuhari Messe Hall B,ENRICO BERRÈ,7/24/2021 8:55,7/24/2021 9:20
+77,Scherma,Quarti Sciabola U,Makuhari Messe Hall B,LUIGI SAMELE,7/24/2021 8:55,7/24/2021 9:20
+78,Taekwondo,Semifinali -58 kg U,Makuhari Messe Hall A,VITO DELL'AQUILA,7/24/2021 9:15,7/24/2021 10:00
+79,Pugilato,Sedicesimi 54-57 kg D,Kokugikan Arena,IRMA TESTA,7/24/2021 10:00,7/24/2021 13:30
+80,Sport Equestri,Dressage individuale e a squadre 1 giorno,Equestrian Park,FRANCESCO ZAZA,7/24/2021 10:00,7/24/2021 15:15
+81,Basket 3x3,Fase a gironi D | Italia - Mongolia,Aomi Urban Sports Park,CHIARA CONSOLINI,7/24/2021 10:30,7/24/2021 10:55
+82,Basket 3x3,Fase a gironi D | Italia - Mongolia,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/24/2021 10:30,7/24/2021 10:55
+83,Basket 3x3,Fase a gironi D | Italia - Mongolia,Aomi Urban Sports Park,MARCELLA FILIPPI,7/24/2021 10:30,7/24/2021 10:55
+84,Basket 3x3,Fase a gironi D | Italia - Mongolia,Aomi Urban Sports Park,GIULIA RULLI,7/24/2021 10:30,7/24/2021 10:55
+85,Nuoto,Batterie 400 misti U,Tokyo Aquatics Centre,PIER ANDREA MATTEAZZI,7/24/2021 12:00,7/24/2021 12:28
+86,Nuoto,Batterie 400 misti U,Tokyo Aquatics Centre,ALBERTO RAZZETTI,7/24/2021 12:00,7/24/2021 12:28
+87,Scherma,Semifinali Sciabola U,Makuhari Messe Hall B,LUIGI SAMELE,7/24/2021 12:00,7/24/2021 12:50
+88,Nuoto,Batterie 100 farfalla D,Tokyo Aquatics Centre,ILARIA BIANCHI,7/24/2021 12:28,7/24/2021 12:48
+89,Nuoto,Batterie 100 farfalla D,Tokyo Aquatics Centre,ELENA DI LIDDO,7/24/2021 12:28,7/24/2021 12:48
+90,Ginnastica,Artistica - Qualificazioni U,Ariake Gymnastics Centre,LUDOVICO EDALLI,7/24/2021 12:30,7/24/2021 15:00
+91,Ginnastica,Artistica - Qualificazioni U,Ariake Gymnastics Centre,MARCO LODADIO,7/24/2021 12:30,7/24/2021 15:00
+92,Tennistavolo,Primo Turno Singolo D,Tokyo Metropolitan Gymnasium,DEBORA VIVARELLI,7/24/2021 12:30,7/24/2021 15:30
+93,Nuoto,Batterie 400 stile libero U,Tokyo Aquatics Centre,MARCO DE TULLIO,7/24/2021 12:48,7/24/2021 13:30
+94,Nuoto,Batterie 400 stile libero U,Tokyo Aquatics Centre,GABRIELE DETTI,7/24/2021 12:48,7/24/2021 13:30
+95,Softball,Italia-Giappone,Yokohama Baseball Stadium,ILARIA CACCIAMANI,7/24/2021 13:00,7/24/2021 15:00
+96,Softball,Italia-Giappone,Yokohama Baseball Stadium,EMILY PATRICIA CAROSONE,7/24/2021 13:00,7/24/2021 15:00
+97,Softball,Italia-Giappone,Yokohama Baseball Stadium,ELISA CECCHETTI,7/24/2021 13:00,7/24/2021 15:00
+98,Softball,Italia-Giappone,Yokohama Baseball Stadium,GRETA CECCHETTI,7/24/2021 13:00,7/24/2021 15:00
+99,Softball,Italia-Giappone,Yokohama Baseball Stadium,AMANDA LYNN FAMA,7/24/2021 13:00,7/24/2021 15:00
+100,Softball,Italia-Giappone,Yokohama Baseball Stadium,ANDREA MARIE FILLER,7/24/2021 13:00,7/24/2021 15:00
+101,Softball,Italia-Giappone,Yokohama Baseball Stadium,MARTA GASPAROTTO,7/24/2021 13:00,7/24/2021 15:00
+102,Softball,Italia-Giappone,Yokohama Baseball Stadium,ANDREA HOWARD,7/24/2021 13:00,7/24/2021 15:00
+103,Softball,Italia-Giappone,Yokohama Baseball Stadium,GIULIA METAXIA KOUTSOYANOPULOS,7/24/2021 13:00,7/24/2021 15:00
+104,Softball,Italia-Giappone,Yokohama Baseball Stadium,ALEXIA LACATENA,7/24/2021 13:00,7/24/2021 15:00
+105,Softball,Italia-Giappone,Yokohama Baseball Stadium,GIULIA LONGHI,7/24/2021 13:00,7/24/2021 15:00
+106,Softball,Italia-Giappone,Yokohama Baseball Stadium,FABRIZIA MARRONE,7/24/2021 13:00,7/24/2021 15:00
+107,Softball,Italia-Giappone,Yokohama Baseball Stadium,ERIKA PIANCASTELLI,7/24/2021 13:00,7/24/2021 15:00
+108,Softball,Italia-Giappone,Yokohama Baseball Stadium,BEATRICE RICCHI,7/24/2021 13:00,7/24/2021 15:00
+109,Softball,Italia-Giappone,Yokohama Baseball Stadium,LAURA VIGNA,7/24/2021 13:00,7/24/2021 15:00
+110,Nuoto,Batterie 400 misti D,Tokyo Aquatics Centre,ILARIA CUSINATO,7/24/2021 13:30,7/24/2021 13:55
+111,Nuoto,Batterie 400 misti D,Tokyo Aquatics Centre,SARA FRANCESCHI,7/24/2021 13:30,7/24/2021 13:55
+112,Nuoto,Batterie 100 rana U,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,7/24/2021 13:55,7/24/2021 14:15
+113,Nuoto,Batterie 100 rana U,Tokyo Aquatics Centre,FEDERICO POGGIO,7/24/2021 13:55,7/24/2021 14:15
+114,Scherma,Finale Sciabola U,Makuhari Messe Hall B,LUIGI SAMELE,7/24/2021 14:15,7/24/2021 15:00
+115,Basket 3x3,Fase a gironi D | Francia - Italia,Aomi Urban Sports Park,CHIARA CONSOLINI,7/24/2021 14:25,7/24/2021 14:50
+116,Basket 3x3,Fase a gironi D | Francia - Italia,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/24/2021 14:25,7/24/2021 14:50
+117,Basket 3x3,Fase a gironi D | Francia - Italia,Aomi Urban Sports Park,MARCELLA FILIPPI,7/24/2021 14:25,7/24/2021 14:50
+118,Basket 3x3,Fase a gironi D | Francia - Italia,Aomi Urban Sports Park,GIULIA RULLI,7/24/2021 14:25,7/24/2021 14:50
+119,Taekwondo,Finale -58 kg U,Makuhari Messe Hall A,VITO DELL'AQUILA,7/24/2021 14:45,7/24/2021 15:10
+120,Surf,Round 1 U,Tsurigasaki Surfing Beach,LEONARDO FIORAVANTI,7/25/2021 0:00,7/25/2021 3:20
+121,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,CATERINA BOSETTI,7/25/2021 2:00,7/25/2021 3:45
+122,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,CRISTINA CHIRICHELLA,7/25/2021 2:00,7/25/2021 3:45
+123,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,ANNA DANESI,7/25/2021 2:00,7/25/2021 3:45
+124,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,MONICA DE GENNARO,7/25/2021 2:00,7/25/2021 3:45
+125,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,PAOLA OGECHI EGONU,7/25/2021 2:00,7/25/2021 3:45
+126,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,SARAH LUISA FAHR,7/25/2021 2:00,7/25/2021 3:45
+127,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,RAPHAELA FOLIE,7/25/2021 2:00,7/25/2021 3:45
+128,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,OFELIA MALINOV,7/25/2021 2:00,7/25/2021 3:45
+129,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,ALESSIA ORRO,7/25/2021 2:00,7/25/2021 3:45
+130,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,ELENA PIETRINI,7/25/2021 2:00,7/25/2021 3:45
+131,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,INDRE SOROKAITE,7/25/2021 2:00,7/25/2021 3:45
+132,Pallavolo,Russia-Italia / Gruppo B D,Ariake Arena,MIRIAM FATIME SYLLA,7/25/2021 2:00,7/25/2021 3:45
+133,Tiro a Volo,Qualificazioni Skeet D,Asaka Shooting Range,DIANA BACOSI,7/25/2021 2:00,7/25/2021 9:00
+134,Tiro a Volo,Qualificazioni Skeet D,Asaka Shooting Range,CHIARA CAINERO,7/25/2021 2:00,7/25/2021 9:00
+135,Tiro con l'arco,Ottavi Squadre D,Yumenoshima Park Archery Field,TATIANA ANDREOLI,7/25/2021 2:30,7/25/2021 4:05
+136,Tiro con l'arco,Ottavi Squadre D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/25/2021 2:30,7/25/2021 4:05
+137,Tiro con l'arco,Ottavi Squadre D,Yumenoshima Park Archery Field,CHIARA REBAGLIATI,7/25/2021 2:30,7/25/2021 4:05
+138,Scherma,Sedicesimi Fioretto D,Makuhari Messe Hall B,MARTINA BATINI,7/25/2021 2:55,7/25/2021 4:55
+139,Scherma,Sedicesimi Fioretto D,Makuhari Messe Hall B,ARIANNA ERRIGO,7/25/2021 2:55,7/25/2021 4:55
+140,Scherma,Sedicesimi Fioretto D,Makuhari Messe Hall B,ALICE VOLPI,7/25/2021 2:55,7/25/2021 4:55
+141,Ginnastica,Artistica - Qualificazioni D Suddivisione 1,Ariake Gymnastics Centre,ALICE D'AMATO,7/25/2021 3:00,7/25/2021 4:50
+142,Ginnastica,Artistica - Qualificazioni D Suddivisione 1,Ariake Gymnastics Centre,ASIA D'AMATO,7/25/2021 3:00,7/25/2021 4:50
+143,Ginnastica,Artistica - Qualificazioni D Suddivisione 1,Ariake Gymnastics Centre,VANESSA FERRARI,7/25/2021 3:00,7/25/2021 4:50
+144,Ginnastica,Artistica - Qualificazioni D Suddivisione 1,Ariake Gymnastics Centre,MARTINA MAGGIO,7/25/2021 3:00,7/25/2021 4:50
+145,Ginnastica,Artistica - Qualificazioni D Suddivisione 1,Ariake Gymnastics Centre,LARA MORI,7/25/2021 3:00,7/25/2021 4:50
+146,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,MATTEO AICARDI,7/25/2021 3:00,7/25/2021 5:50
+147,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,7/25/2021 3:00,7/25/2021 5:50
+148,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,MARCO DEL LUNGO,7/25/2021 3:00,7/25/2021 5:50
+149,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,7/25/2021 3:00,7/25/2021 5:50
+150,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,VINCENZO DOLCE,7/25/2021 3:00,7/25/2021 5:50
+151,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,7/25/2021 3:00,7/25/2021 5:50
+152,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,7/25/2021 3:00,7/25/2021 5:50
+153,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,7/25/2021 3:00,7/25/2021 5:50
+154,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,STEFANO LUONGO,7/25/2021 3:00,7/25/2021 5:50
+155,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,7/25/2021 3:00,7/25/2021 5:50
+156,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,7/25/2021 3:00,7/25/2021 5:50
+157,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,7/25/2021 3:00,7/25/2021 5:50
+158,Pallanuoto,Girone A U Sud Africa - Italia,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,7/25/2021 3:00,7/25/2021 5:50
+159,Tiro a Volo,Qualificazioni Skeet U,Asaka Shooting Range,TAMMARO CASSANDRO,7/25/2021 3:00,7/25/2021 9:00
+160,Tiro a Volo,Qualificazioni Skeet U,Asaka Shooting Range,GABRIELE ROSSETTI,7/25/2021 3:00,7/25/2021 9:00
+161,Nuoto,Finale 400m misti U,Tokyo Aquatics Centre,ALBERTO RAZZETTI,7/25/2021 3:30,7/25/2021 3:40
+162,Nuoto,Semifinale 100m farfalla D,Tokyo Aquatics Centre,ILARIA BIANCHI,7/25/2021 3:40,7/25/2021 3:52
+163,Nuoto,Semifinale 100m farfalla D,Tokyo Aquatics Centre,ELENA DI LIDDO,7/25/2021 3:40,7/25/2021 3:52
+164,Basket 3x3,Fase a gironi D | Romania - Italia,Aomi Urban Sports Park,CHIARA CONSOLINI,7/25/2021 3:40,7/25/2021 4:05
+165,Basket 3x3,Fase a gironi D | Romania - Italia,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/25/2021 3:40,7/25/2021 4:05
+166,Basket 3x3,Fase a gironi D | Romania - Italia,Aomi Urban Sports Park,MARCELLA FILIPPI,7/25/2021 3:40,7/25/2021 4:05
+167,Basket 3x3,Fase a gironi D | Romania - Italia,Aomi Urban Sports Park,GIULIA RULLI,7/25/2021 3:40,7/25/2021 4:05
+168,Canottaggio,Ripescaggi Quattro di coppia D,Sea Forest Waterway,STEFANIA GOBBI,7/25/2021 3:50,7/25/2021 4:00
+169,Canottaggio,Ripescaggi Quattro di coppia D,Sea Forest Waterway,VALENTINA ISEPPI,7/25/2021 3:50,7/25/2021 4:00
+170,Canottaggio,Ripescaggi Quattro di coppia D,Sea Forest Waterway,VERONICA LISI,7/25/2021 3:50,7/25/2021 4:00
+171,Canottaggio,Ripescaggi Quattro di coppia D,Sea Forest Waterway,ALESSANDRA MONTESANO,7/25/2021 3:50,7/25/2021 4:00
+172,Nuoto,Finale 400m stile libero U,Tokyo Aquatics Centre,GABRIELE DETTI,7/25/2021 3:52,7/25/2021 4:12
+173,Judo,Eliminatorie -52 kg D,Nippon Budokan,ODETTE GIUFFRIDA,7/25/2021 4:00,7/25/2021 7:30
+174,Judo,Quarti -52 kg D,Nippon Budokan,ODETTE GIUFFRIDA,7/25/2021 4:00,7/25/2021 7:30
+175,Judo,Eliminatorie -66 kg U,Nippon Budokan,MANUEL LOMBARDO,7/25/2021 4:00,7/25/2021 7:30
+176,Judo,Quarti -66 kg U,Nippon Budokan,MANUEL LOMBARDO,7/25/2021 4:00,7/25/2021 7:30
+177,Tennis,Primo Turno Doppio U,Ariake Tennis Park,LORENZO MUSETTI,7/25/2021 4:00,7/25/2021 13:00
+178,Tennis,Primo Turno Doppio U,Ariake Tennis Park,LORENZO SONEGO,7/25/2021 4:00,7/25/2021 13:00
+179,Tennis,Primo Turno Singolo D,Ariake Tennis Park,CAMILA GIORGI,7/25/2021 4:00,7/25/2021 13:00
+180,Tennis,Primo Turno Singolo D,Ariake Tennis Park,JASMINE PAOLINI,7/25/2021 4:00,7/25/2021 13:00
+181,Nuoto,Finale 400m misti D,Tokyo Aquatics Centre,ILARIA CUSINATO,7/25/2021 4:12,7/25/2021 4:33
+182,Nuoto,Semifinale 100m rana U,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,7/25/2021 4:33,7/25/2021 4:45
+183,Nuoto,Semifinale 100m rana U,Tokyo Aquatics Centre,FEDERICO POGGIO,7/25/2021 4:33,7/25/2021 4:45
+184,Canottaggio,Quarti di Finale Singolo U,Sea Forest Waterway,GENNARO DI MAURO,7/25/2021 4:40,7/25/2021 5:10
+185,Pesi,61 kg U Gruppo B,Tokyo International Forum,DAVIDE RUIU,7/25/2021 4:50,7/25/2021 7:00
+186,Pesi,67 kg U Gruppo B,Tokyo International Forum,MIRKO ZANNI,7/25/2021 4:50,7/25/2021 7:00
+187,Scherma,Sedicesimi Spada U,Makuhari Messe Hall B,MARCO FICHERA,7/25/2021 4:55,7/25/2021 6:35
+188,Scherma,Sedicesimi Spada U,Makuhari Messe Hall B,ENRICO GAROZZO,7/25/2021 4:55,7/25/2021 6:35
+189,Scherma,Sedicesimi Spada U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/25/2021 4:55,7/25/2021 6:35
+190,Vela,RS:X U,Enoshima Yacht Harbour,MATTIA CAMBONI,7/25/2021 5:00,7/25/2021 11:00
+191,Pugilato,Sedicesimi 48-51 kg D,Kokugikan Arena,GIORDANA SORRENTINO,7/25/2021 5:03,7/25/2021 7:45
+192,Vela,Laser Radial D,Enoshima Yacht Harbour,SILVIA ZENNARO,7/25/2021 5:05,7/25/2021 9:00
+193,Tiro a Segno,Qualificazioni Carabina 10m U,Asaka Shooting Range,LORENZO BACCI,7/25/2021 6:00,7/25/2021 8:00
+194,Tiro a Segno,Qualificazioni Carabina 10m U,Asaka Shooting Range,MARCO SUPPINI,7/25/2021 6:00,7/25/2021 8:00
+195,Ciclismo,Starda - Corsa in linea D,Fuji International Speedway,MARTA BASTIANELLI,7/25/2021 6:00,7/25/2021 10:35
+196,Ciclismo,Starda - Corsa in linea D,Fuji International Speedway,MARTA CAVALLI,7/25/2021 6:00,7/25/2021 10:35
+197,Ciclismo,Starda - Corsa in linea D,Fuji International Speedway,ELISA LONGO BORGHINI,7/25/2021 6:00,7/25/2021 10:35
+198,Ciclismo,Starda - Corsa in linea D,Fuji International Speedway,SORAYA PALADIN,7/25/2021 6:00,7/25/2021 10:35
+199,Scherma,Ottavi Fioretto D,Makuhari Messe Hall B,ARIANNA ERRIGO,7/25/2021 6:35,7/25/2021 7:35
+200,Scherma,Ottavi Fioretto D,Makuhari Messe Hall B,ALICE VOLPI,7/25/2021 6:35,7/25/2021 7:35
+201,Surf,Round 2 U,Tsurigasaki Surfing Beach,LEONARDO FIORAVANTI,7/25/2021 6:40,7/25/2021 8:00
+202,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,SIMONE FONTECCHIO,7/25/2021 6:40,7/25/2021 8:40
+203,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,DANILO GALLINARI,7/25/2021 6:40,7/25/2021 8:40
+204,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,NICCOLÒ MANNION,7/25/2021 6:40,7/25/2021 8:40
+205,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,NICOLÒ MELLI,7/25/2021 6:40,7/25/2021 8:40
+206,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,RICCARDO MORASCHINI,7/25/2021 6:40,7/25/2021 8:40
+207,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,ALESSANDRO PAJOLA,7/25/2021 6:40,7/25/2021 8:40
+208,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,ACHILLE POLONARA,7/25/2021 6:40,7/25/2021 8:40
+209,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,GIAMPAOLO RICCI,7/25/2021 6:40,7/25/2021 8:40
+210,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,MARCO SPISSU,7/25/2021 6:40,7/25/2021 8:40
+211,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,AMEDEO VITTORIO TESSITORI,7/25/2021 6:40,7/25/2021 8:40
+212,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,STEFANO TONUT,7/25/2021 6:40,7/25/2021 8:40
+213,Pallacanestro,Girone B U Germania-Italia,Saitama Super Arena,MICHELE VITALI,7/25/2021 6:40,7/25/2021 8:40
+214,Tiro con l'arco,Quarti Squadre D,Yumenoshima Park Archery Field,TATIANA ANDREOLI,7/25/2021 6:45,7/25/2021 8:17
+215,Tiro con l'arco,Quarti Squadre D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/25/2021 6:45,7/25/2021 8:17
+216,Tiro con l'arco,Quarti Squadre D,Yumenoshima Park Archery Field,CHIARA REBAGLIATI,7/25/2021 6:45,7/25/2021 8:17
+217,Canoa,Batterie Slalom K1 D - Run 1,Kasai Canoe Slalom Centre,STEFANIE HORN,7/25/2021 6:47,7/25/2021 6:50
+218,Basket 3x3,Fase a gironi D | Cina - Italia,Aomi Urban Sports Park,CHIARA CONSOLINI,7/25/2021 7:25,7/25/2021 7:50
+219,Basket 3x3,Fase a gironi D | Cina - Italia,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/25/2021 7:25,7/25/2021 7:50
+220,Basket 3x3,Fase a gironi D | Cina - Italia,Aomi Urban Sports Park,MARCELLA FILIPPI,7/25/2021 7:25,7/25/2021 7:50
+221,Basket 3x3,Fase a gironi D | Cina - Italia,Aomi Urban Sports Park,GIULIA RULLI,7/25/2021 7:25,7/25/2021 7:50
+222,Scherma,Ottavi Spada U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/25/2021 7:35,7/25/2021 8:25
+223,Tuffi,Finale Trampolino 3m sincro D,Tokyo Aquatics Centre,ELENA BERTOCCHI,7/25/2021 8:00,7/25/2021 9:00
+224,Tuffi,Finale Trampolino 3m sincro D,Tokyo Aquatics Centre,CHIARA PELLACANI,7/25/2021 8:00,7/25/2021 9:00
+225,Vela,RS:X D,Enoshima Yacht Harbour,MARTA MAGGETTI,7/25/2021 8:00,7/25/2021 10:00
+226,Beach Volley,Fase a gironi D,Shiokaze Park,MARTA MENEGATTI,7/25/2021 8:00,7/25/2021 10:50
+227,Beach Volley,Fase a gironi D,Shiokaze Park,VIKTORIA ORSI TOTH,7/25/2021 8:00,7/25/2021 10:50
+228,Scherma,Quarti Fioretto D,Makuhari Messe Hall B,ARIANNA ERRIGO,7/25/2021 8:25,7/25/2021 8:55
+229,Scherma,Quarti Fioretto D,Makuhari Messe Hall B,ALICE VOLPI,7/25/2021 8:25,7/25/2021 8:55
+230,Pesi,61 kg U Gruppo A Finale,Tokyo International Forum,DAVIDE RUIU,7/25/2021 8:50,7/25/2021 11:00
+231,Scherma,Quarti Spada U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/25/2021 8:55,7/25/2021 9:20
+232,Judo,Ripescaggi -66 kg U,Nippon Budokan,MANUEL LOMBARDO,7/25/2021 10:00,7/25/2021 12:40
+233,Sport Equestri,Dressage individuale 2 giorno,Equestrian Park,FRANCESCO ZAZA,7/25/2021 10:00,7/25/2021 15:15
+234,Judo,Semifinale -52 kg D,Nippon Budokan,ODETTE GIUFFRIDA,7/25/2021 10:17,7/25/2021 12:40
+235,Scherma,Semifinali Fioretto D,Makuhari Messe Hall B,ALICE VOLPI,7/25/2021 11:00,7/25/2021 12:00
+236,Judo,Finale Bronzo -52 kg D,Nippon Budokan,ODETTE GIUFFRIDA,7/25/2021 11:16,7/25/2021 12:40
+237,Judo,Finale Bronzo -66 kg U,Nippon Budokan,MANUEL LOMBARDO,7/25/2021 11:49,7/25/2021 12:40
+238,Scherma,Semifinali Spada U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/25/2021 12:00,7/25/2021 12:50
+239,Nuoto,Batterie 100 dorso D,Tokyo Aquatics Centre,MARGHERITA PANZIERA,7/25/2021 12:02,7/25/2021 12:17
+240,Nuoto,Batterie 200 stile libero U,Tokyo Aquatics Centre,STEFANO BALLO,7/25/2021 12:17,7/25/2021 12:34
+241,Nuoto,Batterie 200 stile libero U,Tokyo Aquatics Centre,STEFANO DI COLA,7/25/2021 12:17,7/25/2021 12:34
+242,Nuoto,Batterie 100 rana D,Tokyo Aquatics Centre,MARTINA CARRARO,7/25/2021 12:34,7/25/2021 12:51
+243,Nuoto,Batterie 100 rana D,Tokyo Aquatics Centre,BENEDETTA PILATO,7/25/2021 12:34,7/25/2021 12:51
+244,Scherma,Finale Bronzo Fioretto D,Makuhari Messe Hall B,ALICE VOLPI,7/25/2021 12:50,7/25/2021 13:20
+245,Pesi,67 kg U Gruppo A Finale,Tokyo International Forum,MIRKO ZANNI,7/25/2021 12:50,7/25/2021 15:00
+246,Nuoto,Batterie 100 dorso U,Tokyo Aquatics Centre,THOMAS CECCON,7/25/2021 12:51,7/25/2021 13:06
+247,Nuoto,Batterie 100 dorso U,Tokyo Aquatics Centre,SIMONE SABBIONI,7/25/2021 12:51,7/25/2021 13:06
+248,Softball,Messico-Italia,Yokohama Baseball Stadium,ILARIA CACCIAMANI,7/25/2021 13:00,7/25/2021 15:00
+249,Softball,Messico-Italia,Yokohama Baseball Stadium,EMILY PATRICIA CAROSONE,7/25/2021 13:00,7/25/2021 15:00
+250,Softball,Messico-Italia,Yokohama Baseball Stadium,ELISA CECCHETTI,7/25/2021 13:00,7/25/2021 15:00
+251,Softball,Messico-Italia,Yokohama Baseball Stadium,GRETA CECCHETTI,7/25/2021 13:00,7/25/2021 15:00
+252,Softball,Messico-Italia,Yokohama Baseball Stadium,AMANDA LYNN FAMA,7/25/2021 13:00,7/25/2021 15:00
+253,Softball,Messico-Italia,Yokohama Baseball Stadium,ANDREA MARIE FILLER,7/25/2021 13:00,7/25/2021 15:00
+254,Softball,Messico-Italia,Yokohama Baseball Stadium,MARTA GASPAROTTO,7/25/2021 13:00,7/25/2021 15:00
+255,Softball,Messico-Italia,Yokohama Baseball Stadium,ANDREA HOWARD,7/25/2021 13:00,7/25/2021 15:00
+256,Softball,Messico-Italia,Yokohama Baseball Stadium,GIULIA METAXIA KOUTSOYANOPULOS,7/25/2021 13:00,7/25/2021 15:00
+257,Softball,Messico-Italia,Yokohama Baseball Stadium,ALEXIA LACATENA,7/25/2021 13:00,7/25/2021 15:00
+258,Softball,Messico-Italia,Yokohama Baseball Stadium,GIULIA LONGHI,7/25/2021 13:00,7/25/2021 15:00
+259,Softball,Messico-Italia,Yokohama Baseball Stadium,FABRIZIA MARRONE,7/25/2021 13:00,7/25/2021 15:00
+260,Softball,Messico-Italia,Yokohama Baseball Stadium,ERIKA PIANCASTELLI,7/25/2021 13:00,7/25/2021 15:00
+261,Softball,Messico-Italia,Yokohama Baseball Stadium,BEATRICE RICCHI,7/25/2021 13:00,7/25/2021 15:00
+262,Softball,Messico-Italia,Yokohama Baseball Stadium,LAURA VIGNA,7/25/2021 13:00,7/25/2021 15:00
+263,Beach Volley,Fase a gironi U,Shiokaze Park,ADRIAN IGNACIO CARAMBULA RAURICH,7/25/2021 13:00,7/25/2021 15:50
+264,Beach Volley,Fase a gironi U,Shiokaze Park,DANIELE LUPO,7/25/2021 13:00,7/25/2021 15:50
+265,Beach Volley,Fase a gironi U,Shiokaze Park,PAOLO NICOLAI,7/25/2021 13:00,7/25/2021 15:50
+266,Beach Volley,Fase a gironi U,Shiokaze Park,ENRICO ROSSI,7/25/2021 13:00,7/25/2021 15:50
+267,Scherma,Finale Bronzo Spada U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/25/2021 13:20,7/25/2021 13:45
+268,Nuoto,Batterie 4x100 stile libero U,Tokyo Aquatics Centre,LORENZO ZAZZERI,7/25/2021 13:30,7/25/2021 13:40
+269,Nuoto,Batterie 4x100 stile libero U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,7/25/2021 13:30,7/25/2021 13:40
+270,Nuoto,Batterie 4x100 stile libero U,Tokyo Aquatics Centre,MANUEL FRIGO,7/25/2021 13:30,7/25/2021 13:40
+271,Nuoto,Batterie 4x100 stile libero U,Tokyo Aquatics Centre,SANTO CONDORELLI,7/25/2021 13:30,7/25/2021 13:40
+272,Triathlon,Gara U,Odaiba Marine Park,GIANLUCA POZZATTI,7/25/2021 23:30,7/26/2021 2:00
+273,Triathlon,Gara U,Odaiba Marine Park,DELIAN DIMKO STATEFF,7/25/2021 23:30,7/26/2021 2:00
+274,Surf,Round 3 U,Tsurigasaki Surfing Beach,LEONARDO FIORAVANTI,7/26/2021 0:00,7/26/2021 9:40
+275,Skateboarding,Turni preliminari Street D,Ariake Urban Sports Park,ASIA LANZI,7/26/2021 1:30,7/26/2021 5:25
+276,Tiro a Volo,Qualificazioni Skeet U - Day 2,Asaka Shooting Range,TAMMARO CASSANDRO,7/26/2021 2:00,7/26/2021 6:15
+277,Tiro a Volo,Qualificazioni Skeet U - Day 2,Asaka Shooting Range,GABRIELE ROSSETTI,7/26/2021 2:00,7/26/2021 6:15
+278,Tiro a Volo,Qualificazioni Skeet D - Day 2,Asaka Shooting Range,DIANA BACOSI,7/26/2021 2:00,7/26/2021 6:15
+279,Tiro a Volo,Qualificazioni Skeet D - Day 2,Asaka Shooting Range,CHIARA CAINERO,7/26/2021 2:00,7/26/2021 6:15
+280,Scherma,Sedicesimi Sciabola D,Makuhari Messe Hall B,MARTINA CRISCIO,7/26/2021 2:55,7/26/2021 4:35
+281,Scherma,Sedicesimi Sciabola D,Makuhari Messe Hall B,ROSSELLA GREGORIO,7/26/2021 2:55,7/26/2021 4:35
+282,Scherma,Sedicesimi Sciabola D,Makuhari Messe Hall B,IRENE VECCHI,7/26/2021 2:55,7/26/2021 4:35
+283,Taekwondo,Ottavi -80 kg U,Makuhari Messe Hall A,SIMONE ALESSIO,7/26/2021 3:00,7/26/2021 7:00
+284,Nuoto,Semifinale 200m stile libero U,Tokyo Aquatics Centre,STEFANO BALLO,7/26/2021 3:37,7/26/2021 3:50
+285,Nuoto,Semifinale 200m stile libero U,Tokyo Aquatics Centre,STEFANO DI COLA,7/26/2021 3:37,7/26/2021 3:50
+286,Nuoto,Semifinale 100m rana D,Tokyo Aquatics Centre,MARTINA CARRARO,7/26/2021 3:50,7/26/2021 4:12
+287,Judo,Eliminatorie -73 kg U,Nippon Budokan,FABIO BASILE,7/26/2021 4:00,7/26/2021 7:30
+288,Pugilato,Ottavi 54-57 kg D,Kokugikan Arena,IRMA TESTA,7/26/2021 4:00,7/26/2021 7:45
+289,Tennis,Secondo Turno Doppio D,Ariake Tennis Park,CAMILA GIORGI,7/26/2021 4:00,7/26/2021 13:00
+290,Tennis,Secondo Turno Doppio D,Ariake Tennis Park,JASMINE PAOLINI,7/26/2021 4:00,7/26/2021 13:00
+291,Tennis,Secondo Turno Singolo D,Ariake Tennis Park,CAMILA GIORGI,7/26/2021 4:00,7/26/2021 13:00
+292,Tennis,Secondo Turno Singolo U,Ariake Tennis Park,FABIO FOGNINI,7/26/2021 4:00,7/26/2021 13:00
+293,Tennis,Secondo Turno Singolo U,Ariake Tennis Park,LORENZO SONEGO,7/26/2021 4:00,7/26/2021 13:00
+294,Tennis,Secondo Turno Doppio U,Ariake Tennis Park,LORENZO MUSETTI,7/26/2021 4:00,7/26/2021 13:00
+295,Tennis,Secondo Turno Doppio U,Ariake Tennis Park,LORENZO SONEGO,7/26/2021 4:00,7/26/2021 13:00
+296,Nuoto,Finale 100m rana U,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,7/26/2021 4:12,7/26/2021 4:20
+297,Nuoto,Semifinale 100m dorso U,Tokyo Aquatics Centre,THOMAS CECCON,7/26/2021 4:31,7/26/2021 4:53
+298,Scherma,Sedicesimi Fioretto U,Makuhari Messe Hall B,ANDREA CASSARÀ,7/26/2021 4:35,7/26/2021 6:35
+299,Scherma,Sedicesimi Fioretto U,Makuhari Messe Hall B,ALESSIO FOCONI,7/26/2021 4:35,7/26/2021 6:35
+300,Scherma,Sedicesimi Fioretto U,Makuhari Messe Hall B,DANIELE GAROZZO,7/26/2021 4:35,7/26/2021 6:35
+301,Nuoto,Semifinale 100m dorso D,Tokyo Aquatics Centre,MARGHERITA PANZIERA,7/26/2021 4:53,7/26/2021 5:05
+302,Vela,RS:X U,Enoshima Yacht Harbour,MATTIA CAMBONI,7/26/2021 5:00,7/26/2021 11:00
+303,Vela,RS:X D,Enoshima Yacht Harbour,MARTA MAGGETTI,7/26/2021 5:00,7/26/2021 11:00
+304,Vela,Laser Radial D,Enoshima Yacht Harbour,SILVIA ZENNARO,7/26/2021 5:00,7/26/2021 11:00
+305,Nuoto,Finale 4x100m stile libero U,Tokyo Aquatics Centre,LORENZO ZAZZERI,7/26/2021 5:05,7/26/2021 5:40
+306,Nuoto,Finale 4x100m stile libero U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,7/26/2021 5:05,7/26/2021 5:40
+307,Nuoto,Finale 4x100m stile libero U,Tokyo Aquatics Centre,THOMAS CECCON,7/26/2021 5:05,7/26/2021 5:40
+308,Nuoto,Finale 4x100m stile libero U,Tokyo Aquatics Centre,MANUEL FRIGO,7/26/2021 5:05,7/26/2021 5:40
+309,Skateboarding,Finale Street D,Ariake Urban Sports Park,ASIA LANZI,7/26/2021 5:25,7/26/2021 6:55
+310,Scherma,Ottavi Sciabola D,Makuhari Messe Hall B,IRENE VECCHI,7/26/2021 6:35,7/26/2021 7:25
+311,Taekwondo,Quarti -80 kg U,Makuhari Messe Hall A,SIMONE ALESSIO,7/26/2021 7:00,7/26/2021 9:00
+312,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,SIMONE ANZANI,7/26/2021 7:20,7/26/2021 9:05
+313,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,MASSIMO COLACI,7/26/2021 7:20,7/26/2021 9:05
+314,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,GIANLUCA GALASSI,7/26/2021 7:20,7/26/2021 9:05
+315,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,SIMONE GIANNELLI,7/26/2021 7:20,7/26/2021 9:05
+316,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,OSMANY JUANTORENA,7/26/2021 7:20,7/26/2021 9:05
+317,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,JIRI KOVAR,7/26/2021 7:20,7/26/2021 9:05
+318,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,DANIELE LAVIA,7/26/2021 7:20,7/26/2021 9:05
+319,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,ALESSANDRO MICHIELETTO,7/26/2021 7:20,7/26/2021 9:05
+320,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,MATTEO PIANO,7/26/2021 7:20,7/26/2021 9:05
+321,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,RICCARDO SBERTOLI,7/26/2021 7:20,7/26/2021 9:05
+322,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,LUCA VETTORI,7/26/2021 7:20,7/26/2021 9:05
+323,Pallavolo,Polonia-Italia / Gruppo A U,Ariake Arena,IVAN ZAYTSEV,7/26/2021 7:20,7/26/2021 9:05
+324,Basket 3x3,Fase a gironi D | Italia - Giappone,Aomi Urban Sports Park,CHIARA CONSOLINI,7/26/2021 7:25,7/26/2021 7:50
+325,Basket 3x3,Fase a gironi D | Italia - Giappone,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/26/2021 7:25,7/26/2021 7:50
+326,Basket 3x3,Fase a gironi D | Italia - Giappone,Aomi Urban Sports Park,MARCELLA FILIPPI,7/26/2021 7:25,7/26/2021 7:50
+327,Basket 3x3,Fase a gironi D | Italia - Giappone,Aomi Urban Sports Park,GIULIA RULLI,7/26/2021 7:25,7/26/2021 7:50
+328,Scherma,Ottavi Fioretto U,Makuhari Messe Hall B,ANDREA CASSARÀ,7/26/2021 7:25,7/26/2021 8:25
+329,Scherma,Ottavi Fioretto U,Makuhari Messe Hall B,ALESSIO FOCONI,7/26/2021 7:25,7/26/2021 8:25
+330,Scherma,Ottavi Fioretto U,Makuhari Messe Hall B,DANIELE GAROZZO,7/26/2021 7:25,7/26/2021 8:25
+331,Softball,Italia-Canada,Yokohama Baseball Stadium,ILARIA CACCIAMANI,7/26/2021 7:30,7/26/2021 9:30
+332,Softball,Italia-Canada,Yokohama Baseball Stadium,EMILY PATRICIA CAROSONE,7/26/2021 7:30,7/26/2021 9:30
+333,Softball,Italia-Canada,Yokohama Baseball Stadium,ELISA CECCHETTI,7/26/2021 7:30,7/26/2021 9:30
+334,Softball,Italia-Canada,Yokohama Baseball Stadium,GRETA CECCHETTI,7/26/2021 7:30,7/26/2021 9:30
+335,Softball,Italia-Canada,Yokohama Baseball Stadium,AMANDA LYNN FAMA,7/26/2021 7:30,7/26/2021 9:30
+336,Softball,Italia-Canada,Yokohama Baseball Stadium,ANDREA MARIE FILLER,7/26/2021 7:30,7/26/2021 9:30
+337,Softball,Italia-Canada,Yokohama Baseball Stadium,MARTA GASPAROTTO,7/26/2021 7:30,7/26/2021 9:30
+338,Softball,Italia-Canada,Yokohama Baseball Stadium,ANDREA HOWARD,7/26/2021 7:30,7/26/2021 9:30
+339,Softball,Italia-Canada,Yokohama Baseball Stadium,GIULIA METAXIA KOUTSOYANOPULOS,7/26/2021 7:30,7/26/2021 9:30
+340,Softball,Italia-Canada,Yokohama Baseball Stadium,ALEXIA LACATENA,7/26/2021 7:30,7/26/2021 9:30
+341,Softball,Italia-Canada,Yokohama Baseball Stadium,GIULIA LONGHI,7/26/2021 7:30,7/26/2021 9:30
+342,Softball,Italia-Canada,Yokohama Baseball Stadium,FABRIZIA MARRONE,7/26/2021 7:30,7/26/2021 9:30
+343,Softball,Italia-Canada,Yokohama Baseball Stadium,ERIKA PIANCASTELLI,7/26/2021 7:30,7/26/2021 9:30
+344,Softball,Italia-Canada,Yokohama Baseball Stadium,BEATRICE RICCHI,7/26/2021 7:30,7/26/2021 9:30
+345,Softball,Italia-Canada,Yokohama Baseball Stadium,LAURA VIGNA,7/26/2021 7:30,7/26/2021 9:30
+346,Tiro a Volo,Finale Skeet D,Asaka Shooting Range,DIANA BACOSI,7/26/2021 7:50,7/26/2021 8:50
+347,Ciclismo,MTB U,Izu MTB Course,LUCA BRAIDOT,7/26/2021 8:00,7/26/2021 10:00
+348,Ciclismo,MTB U,Izu MTB Course,NADIR COLLEDANI,7/26/2021 8:00,7/26/2021 10:00
+349,Ciclismo,MTB U,Izu MTB Course,GERHARD KERSCHBAUMER,7/26/2021 8:00,7/26/2021 10:00
+350,Scherma,Quarti Fioretto U,Makuhari Messe Hall B,DANIELE GAROZZO,7/26/2021 8:50,7/26/2021 9:20
+351,Tiro a Volo,Finale Skeet U,Asaka Shooting Range,TAMMARO CASSANDRO,7/26/2021 8:50,7/26/2021 10:15
+352,Basket 3x3,Fase a gironi D | Italia - USA,Aomi Urban Sports Park,CHIARA CONSOLINI,7/26/2021 10:55,7/26/2021 11:20
+353,Basket 3x3,Fase a gironi D | Italia - USA,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/26/2021 10:55,7/26/2021 11:20
+354,Basket 3x3,Fase a gironi D | Italia - USA,Aomi Urban Sports Park,MARCELLA FILIPPI,7/26/2021 10:55,7/26/2021 11:20
+355,Basket 3x3,Fase a gironi D | Italia - USA,Aomi Urban Sports Park,GIULIA RULLI,7/26/2021 10:55,7/26/2021 11:20
+356,Scherma,Semifinali Fioretto U,Makuhari Messe Hall B,DANIELE GAROZZO,7/26/2021 11:50,7/26/2021 12:50
+357,Nuoto,Batterie 200 stile libero D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/26/2021 12:00,7/26/2021 12:16
+358,Nuoto,Batterie 200 farfalla U,Tokyo Aquatics Centre,FEDERICO BURDISSO,7/26/2021 12:16,7/26/2021 12:34
+359,Nuoto,Batterie 200 farfalla U,Tokyo Aquatics Centre,GIACOMO CARINI,7/26/2021 12:16,7/26/2021 12:34
+360,Nuoto,Batterie 200 misti D,Tokyo Aquatics Centre,ILARIA CUSINATO,7/26/2021 12:34,7/26/2021 12:49
+361,Nuoto,Batterie 200 misti D,Tokyo Aquatics Centre,SARA FRANCESCHI,7/26/2021 12:34,7/26/2021 12:49
+362,Nuoto,Batterie 1500 stile libero D,Tokyo Aquatics Centre,MARTINA RITA CARAMIGNOLI,7/26/2021 12:49,7/26/2021 14:30
+363,Nuoto,Batterie 1500 stile libero D,Tokyo Aquatics Centre,SIMONA QUADARELLA,7/26/2021 12:49,7/26/2021 14:30
+364,Scherma,Finale 1-2 posto Fioretto U,Makuhari Messe Hall B,DANIELE GAROZZO,7/26/2021 14:10,7/26/2021 14:30
+365,Triathlon,Gara D,Odaiba Marine Park,ALICE BETTO,7/26/2021 23:30,7/27/2021 2:05
+366,Triathlon,Gara D,Odaiba Marine Park,ANGELICA OLMO,7/26/2021 23:30,7/27/2021 2:05
+367,Triathlon,Gara D,Odaiba Marine Park,VERENA STEINHAUSER,7/26/2021 23:30,7/27/2021 2:05
+368,Tiro con l'arco,Trentaduesimi e Sedicesimi Individuale U,Yumenoshima Park Archery Field,MAURO NESPOLI,7/27/2021 2:30,7/27/2021 6:25
+369,Nuoto,Semifinali 200m stile libero D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/27/2021 3:30,7/27/2021 3:43
+370,Nuoto,Finale 100m dorso U,Tokyo Aquatics Centre,THOMAS CECCON,7/27/2021 3:59,7/27/2021 4:17
+371,Judo,Eliminatorie -63 kg D,Nippon Budokan,MARIA CENTRACCHIO,7/27/2021 4:00,7/27/2021 7:30
+372,Judo,Quarti -63 kg D,Nippon Budokan,MARIA CENTRACCHIO,7/27/2021 4:00,7/27/2021 7:30
+373,Judo,Eliminatorie -81 kg U,Nippon Budokan,CHRISTIAN PARLATI,7/27/2021 4:00,7/27/2021 7:30
+374,Pugilato,Sedicesimi 57-60 kg D,Kokugikan Arena,REBECCA NICOLI,7/27/2021 4:00,7/27/2021 7:45
+375,Pugilato,Ottavi 64-69 kg D,Kokugikan Arena,ANGELA CARINI,7/27/2021 4:00,7/27/2021 7:45
+376,Tennis,Terzo Turno Singolo D,Ariake Tennis Park,CAMILA GIORGI,7/27/2021 4:00,7/27/2021 13:00
+377,Nuoto,Finale 100m rana D,Tokyo Aquatics Centre,MARTINA CARRARO,7/27/2021 4:17,7/27/2021 4:35
+378,Scherma,Quarti Spada a squadre D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/27/2021 4:25,7/27/2021 5:45
+379,Scherma,Quarti Spada a squadre D,Makuhari Messe Hall B,FEDERICA ISOLA,7/27/2021 4:25,7/27/2021 5:45
+380,Scherma,Quarti Spada a squadre D,Makuhari Messe Hall B,MARA NAVARRIA,7/27/2021 4:25,7/27/2021 5:45
+381,Nuoto,Semifinali 200m farfalla U,Tokyo Aquatics Centre,FEDERICO BURDISSO,7/27/2021 4:35,7/27/2021 4:58
+382,Nuoto,Semifinali 200m farfalla U,Tokyo Aquatics Centre,GIACOMO CARINI,7/27/2021 4:35,7/27/2021 4:58
+383,Pesi,59 kg D Gruppo B,Tokyo International Forum,MARIA GRAZIA ALEMANNO,7/27/2021 4:50,7/27/2021 7:00
+384,Nuoto,Semifinali 200m misti D,Tokyo Aquatics Centre,ILARIA CUSINATO,7/27/2021 4:58,7/27/2021 5:25
+385,Nuoto,Semifinali 200m misti D,Tokyo Aquatics Centre,SARA FRANCESCHI,7/27/2021 4:58,7/27/2021 5:25
+386,Vela,Laser Radial D,Enoshima Yacht Harbour,SILVIA ZENNARO,7/27/2021 5:00,7/27/2021 11:00
+387,Tiro a Segno,Carabina 10m Qualificazioni MX,Asaka Shooting Range,SOFIA CECCARELLO,7/27/2021 6:15,7/27/2021 8:00
+388,Tiro a Segno,Carabina 10m Qualificazioni MX,Asaka Shooting Range,MARCO SUPPINI,7/27/2021 6:15,7/27/2021 8:00
+389,Scherma,Semifinali Spada a squadre D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/27/2021 6:40,7/27/2021 7:30
+390,Scherma,Semifinali Spada a squadre D,Makuhari Messe Hall B,FEDERICA ISOLA,7/27/2021 6:40,7/27/2021 7:30
+391,Scherma,Semifinali Spada a squadre D,Makuhari Messe Hall B,MARA NAVARRIA,7/27/2021 6:40,7/27/2021 7:30
+392,Canoa,Semifinale K1 slalom D,Kasai Canoe Slalom Centre,STEFANIE HORN,7/27/2021 7:00,7/27/2021 9:00
+393,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,MATTEO AICARDI,7/27/2021 7:00,7/27/2021 9:50
+394,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,7/27/2021 7:00,7/27/2021 9:50
+395,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,MARCO DEL LUNGO,7/27/2021 7:00,7/27/2021 9:50
+396,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,7/27/2021 7:00,7/27/2021 9:50
+397,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,VINCENZO DOLCE,7/27/2021 7:00,7/27/2021 9:50
+398,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,7/27/2021 7:00,7/27/2021 9:50
+399,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,7/27/2021 7:00,7/27/2021 9:50
+400,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,7/27/2021 7:00,7/27/2021 9:50
+401,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,STEFANO LUONGO,7/27/2021 7:00,7/27/2021 9:50
+402,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,7/27/2021 7:00,7/27/2021 9:50
+403,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,7/27/2021 7:00,7/27/2021 9:50
+404,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,7/27/2021 7:00,7/27/2021 9:50
+405,Pallanuoto,Girone A U Italia - Grecia,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,7/27/2021 7:00,7/27/2021 9:50
+406,Ciclismo,MTB D,Izu MTB Course,EVA LECHNER,7/27/2021 8:00,7/27/2021 10:00
+407,Tiro a Segno,Carabina 10m Finale MX,Asaka Shooting Range,MARCO SUPPINI,7/27/2021 8:15,7/27/2021 9:30
+408,Tiro a Segno,Carabina 10m Finale MX,Asaka Shooting Range,SOFIA CECCARELLO,7/27/2021 8:15,7/27/2021 9:30
+409,Canoa,Finale K1 slalom D,Kasai Canoe Slalom Centre,STEFANIE HORN,7/27/2021 9:15,7/27/2021 10:00
+410,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,CATERINA BOSETTI,7/27/2021 9:25,7/27/2021 11:10
+411,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,CRISTINA CHIRICHELLA,7/27/2021 9:25,7/27/2021 11:10
+412,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,ANNA DANESI,7/27/2021 9:25,7/27/2021 11:10
+413,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,MONICA DE GENNARO,7/27/2021 9:25,7/27/2021 11:10
+414,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,PAOLA OGECHI EGONU,7/27/2021 9:25,7/27/2021 11:10
+415,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,SARAH LUISA FAHR,7/27/2021 9:25,7/27/2021 11:10
+416,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,RAPHAELA FOLIE,7/27/2021 9:25,7/27/2021 11:10
+417,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,OFELIA MALINOV,7/27/2021 9:25,7/27/2021 11:10
+418,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,ALESSIA ORRO,7/27/2021 9:25,7/27/2021 11:10
+419,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,ELENA PIETRINI,7/27/2021 9:25,7/27/2021 11:10
+420,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,INDRE SOROKAITE,7/27/2021 9:25,7/27/2021 11:10
+421,Pallavolo,Italia-Turchia / Gruppo B D,Ariake Arena,MIRIAM FATIME SYLLA,7/27/2021 9:25,7/27/2021 11:10
+422,Judo,Finali 3-5 posto -63 kg D,Nippon Budokan,MARIA CENTRACCHIO,7/27/2021 10:00,7/27/2021 12:40
+423,Judo,Semifinali -63 kg D,Nippon Budokan,MARIA CENTRACCHIO,7/27/2021 10:00,7/27/2021 12:40
+424,Basket 3x3,Fase a gironi D | ROC - Italia,Aomi Urban Sports Park,CHIARA CONSOLINI,7/27/2021 10:25,7/27/2021 10:50
+425,Basket 3x3,Fase a gironi D | ROC - Italia,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/27/2021 10:25,7/27/2021 10:50
+426,Basket 3x3,Fase a gironi D | ROC - Italia,Aomi Urban Sports Park,MARCELLA FILIPPI,7/27/2021 10:25,7/27/2021 10:50
+427,Basket 3x3,Fase a gironi D | ROC - Italia,Aomi Urban Sports Park,GIULIA RULLI,7/27/2021 10:25,7/27/2021 10:50
+428,Scherma,Finale 3-4 posto spada a squadre D,Makuhari Messe Hall B,ROSSELLA FIAMINGO,7/27/2021 11:30,7/27/2021 12:30
+429,Scherma,Finale 3-4 posto spada a squadre D,Makuhari Messe Hall B,FEDERICA ISOLA,7/27/2021 11:30,7/27/2021 12:30
+430,Scherma,Finale 3-4 posto spada a squadre D,Makuhari Messe Hall B,MARA NAVARRIA,7/27/2021 11:30,7/27/2021 12:30
+431,Nuoto,Batterie 100m stile libero U,Tokyo Aquatics Centre,THOMAS CECCON,7/27/2021 12:00,7/27/2021 12:25
+432,Nuoto,Batterie 100m stile libero U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,7/27/2021 12:00,7/27/2021 12:25
+433,Ginnastica,Artistica - Finale All-Around squadre D,Ariake Gymnastics Centre,ALICE D'AMATO,7/27/2021 12:45,7/27/2021 15:00
+434,Ginnastica,Artistica - Finale All-Around squadre D,Ariake Gymnastics Centre,ASIA D'AMATO,7/27/2021 12:45,7/27/2021 15:00
+435,Ginnastica,Artistica - Finale All-Around squadre D,Ariake Gymnastics Centre,VANESSA FERRARI,7/27/2021 12:45,7/27/2021 15:00
+436,Ginnastica,Artistica - Finale All-Around squadre D,Ariake Gymnastics Centre,MARTINA MAGGIO,7/27/2021 12:45,7/27/2021 15:00
+437,Pesi,64 kg D Gruppo A,Tokyo International Forum,GIORGIA BORDIGNON,7/27/2021 12:50,7/27/2021 15:00
+438,Nuoto,Batterie 4x200m stile libero U,Tokyo Aquatics Centre,MARCO DE TULLIO,7/27/2021 12:58,7/27/2021 13:07
+439,Nuoto,Batterie 4x200m stile libero U,Tokyo Aquatics Centre,STEFANO DI COLA,7/27/2021 12:58,7/27/2021 13:07
+440,Nuoto,Batterie 4x200m stile libero U,Tokyo Aquatics Centre,MATTEO CIAMPI,7/27/2021 12:58,7/27/2021 13:07
+441,Nuoto,Batterie 4x200m stile libero U,Tokyo Aquatics Centre,FILIPPO MEGLI,7/27/2021 12:58,7/27/2021 13:07
+442,Nuoto,Batterie 800m stile libero U,Tokyo Aquatics Centre,GABRIELE DETTI,7/27/2021 13:17,7/27/2021 14:10
+443,Nuoto,Batterie 800m stile libero U,Tokyo Aquatics Centre,GREGORIO PALTRINIERI,7/27/2021 13:17,7/27/2021 14:10
+444,Basket 3x3,Quarti D | Cina - Italia,Aomi Urban Sports Park,CHIARA CONSOLINI,7/27/2021 13:30,7/27/2021 14:00
+445,Basket 3x3,Quarti D | Cina - Italia,Aomi Urban Sports Park,RAE LIN MARIE D'ALIE,7/27/2021 13:30,7/27/2021 14:00
+446,Basket 3x3,Quarti D | Cina - Italia,Aomi Urban Sports Park,MARCELLA FILIPPI,7/27/2021 13:30,7/27/2021 14:00
+447,Basket 3x3,Quarti D | Cina - Italia,Aomi Urban Sports Park,GIULIA RULLI,7/27/2021 13:30,7/27/2021 14:00
+448,Canottaggio,Due di coppia / D Finale B,Sea Forest Waterway,CHIARA ONDOLI,7/28/2021 1:10,7/28/2021 1:20
+449,Canottaggio,Due di coppia / D Finale B,Sea Forest Waterway,ALESSANDRA PATELLI,7/28/2021 1:10,7/28/2021 1:20
+450,Tiro a Volo,Qualificazioni Trap U,Asaka Shooting Range,MAURO DE FILIPPIS,7/28/2021 2:00,7/28/2021 9:00
+451,Tiro a Volo,Qualificazioni Trap D,Asaka Shooting Range,JESSICA ROSSI,7/28/2021 2:00,7/28/2021 9:00
+452,Tiro a Volo,Qualificazioni Trap D,Asaka Shooting Range,SILVANA MARIA STANCO,7/28/2021 2:00,7/28/2021 9:00
+453,Canottaggio,Quattro senza / U Finale A,Sea Forest Waterway,MATTEO CASTALDO,7/28/2021 3:10,7/28/2021 3:30
+454,Canottaggio,Quattro senza / U Finale A,Sea Forest Waterway,MARCO DI COSTANZO,7/28/2021 3:10,7/28/2021 3:30
+455,Canottaggio,Quattro senza / U Finale A,Sea Forest Waterway,MATTEO LODO,7/28/2021 3:10,7/28/2021 3:30
+456,Canottaggio,Quattro senza / U Finale A,Sea Forest Waterway,GIUSEPPE VICINO,7/28/2021 3:10,7/28/2021 3:30
+457,Nuoto,Semifinali 100m Stile Libero U,Tokyo Aquatics Centre,THOMAS CECCON,7/28/2021 3:30,7/28/2021 3:41
+458,Nuoto,Semifinali 100m Stile Libero U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,7/28/2021 3:30,7/28/2021 3:41
+459,Canottaggio,Quattro di coppia / U Finale A,Sea Forest Waterway,GIACOMO GENTILI,7/28/2021 3:30,7/28/2021 3:50
+460,Canottaggio,Quattro di coppia / U Finale A,Sea Forest Waterway,ANDREA PANIZZA,7/28/2021 3:30,7/28/2021 3:50
+461,Canottaggio,Quattro di coppia / U Finale A,Sea Forest Waterway,LUCA RAMBALDI,7/28/2021 3:30,7/28/2021 3:50
+462,Canottaggio,Quattro di coppia / U Finale A,Sea Forest Waterway,SIMONE VENIER,7/28/2021 3:30,7/28/2021 3:50
+463,Nuoto,Finale 200m stile libero D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/28/2021 3:41,7/28/2021 3:49
+464,Nuoto,Finale 200m farfalla U,Tokyo Aquatics Centre,FEDERICO BURDISSO,7/28/2021 3:49,7/28/2021 3:57
+465,Canottaggio,Quattro di coppia / D Finale A,Sea Forest Waterway,STEFANIA GOBBI,7/28/2021 3:50,7/28/2021 4:10
+466,Canottaggio,Quattro di coppia / D Finale A,Sea Forest Waterway,VALENTINA ISEPPI,7/28/2021 3:50,7/28/2021 4:10
+467,Canottaggio,Quattro di coppia / D Finale A,Sea Forest Waterway,VERONICA LISI,7/28/2021 3:50,7/28/2021 4:10
+468,Canottaggio,Quattro di coppia / D Finale A,Sea Forest Waterway,ALESSANDRA MONTESANO,7/28/2021 3:50,7/28/2021 4:10
+469,Judo,Eliminatorie -70 kg D,Nippon Budokan,ALICE BELLANDI,7/28/2021 4:00,7/28/2021 7:30
+470,Judo,Eliminatorie -90 kg U,Nippon Budokan,NICHOLAS MUNGAI,7/28/2021 4:00,7/28/2021 7:30
+471,Judo,Quarti -70 kg D,Nippon Budokan,ALICE BELLANDI,7/28/2021 4:00,7/28/2021 7:30
+472,Pugilato,Quarti 54-57 kg D,Kokugikan Arena,IRMA TESTA,7/28/2021 4:00,7/28/2021 7:45
+473,Tennis,Terzo Turno Singolo U,Ariake Tennis Park,FABIO FOGNINI,7/28/2021 4:00,7/28/2021 13:00
+474,Tennis,Quarti Singolo D,Ariake Tennis Park,CAMILA GIORGI,7/28/2021 4:00,7/28/2021 13:00
+475,Canottaggio,Due di coppia PL / U Semifinali A-B,Sea Forest Waterway,STEFANO OPPO,7/28/2021 4:10,7/28/2021 4:30
+476,Canottaggio,Due di coppia PL / U Semifinali A-B,Sea Forest Waterway,PIETRO WILLY RUTA,7/28/2021 4:10,7/28/2021 4:30
+477,Scherma,Quarti Sciabola a squadre U,Makuhari Messe Hall B,ENRICO BERRÈ,7/28/2021 4:25,7/28/2021 8:20
+478,Scherma,Quarti Sciabola a squadre U,Makuhari Messe Hall B,LUCA CURATOLI,7/28/2021 4:25,7/28/2021 8:20
+479,Scherma,Quarti Sciabola a squadre U,Makuhari Messe Hall B,LUIGI SAMELE,7/28/2021 4:25,7/28/2021 8:20
+480,Ciclismo,Strada - Cronometro D,Fuji International Speedway,ELISA LONGO BORGHINI,7/28/2021 4:30,7/28/2021 6:00
+481,Canottaggio,Due di coppia PL / D Semifinali A-B,Sea Forest Waterway,FEDERICA CESARINI,7/28/2021 4:40,7/28/2021 5:00
+482,Canottaggio,Due di coppia PL / D Semifinali A-B,Sea Forest Waterway,VALENTINA RODINI,7/28/2021 4:40,7/28/2021 5:00
+483,Nuoto,Finale 1500m stile libero D,Tokyo Aquatics Centre,SIMONA QUADARELLA,7/28/2021 4:54,7/28/2021 5:26
+484,Canottaggio,Due senza / U Semifinali A-B,Sea Forest Waterway,GIOVANNI ABAGNALE,7/28/2021 5:00,7/28/2021 5:20
+485,Canottaggio,Due senza / U Semifinali A-B,Sea Forest Waterway,VINCENZO ABBAGNALE,7/28/2021 5:00,7/28/2021 5:20
+486,Vela,470 U,Enoshima Yacht Harbour,ELENA BERTA,7/28/2021 5:00,7/28/2021 11:00
+487,Vela,470 U,Enoshima Yacht Harbour,BIANCA CARUSO,7/28/2021 5:00,7/28/2021 11:00
+488,Vela,470 D,Enoshima Yacht Harbour,ELENA BERTA,7/28/2021 5:00,7/28/2021 11:00
+489,Vela,470 D,Enoshima Yacht Harbour,BIANCA CARUSO,7/28/2021 5:00,7/28/2021 11:00
+490,Vela,RS:X D,Enoshima Yacht Harbour,MARTA MAGGETTI,7/28/2021 5:00,7/28/2021 11:00
+491,Vela,RS:X U,Enoshima Yacht Harbour,MATTIA CAMBONI,7/28/2021 5:00,7/28/2021 11:00
+492,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,CATERINA MARIANNA BANTI,7/28/2021 5:00,7/28/2021 11:00
+493,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,RUGGERO TITA,7/28/2021 5:00,7/28/2021 11:00
+494,Canottaggio,Due senza / D Semifinali A-B,Sea Forest Waterway,AISHA ROCEK,7/28/2021 5:20,7/28/2021 5:40
+495,Canottaggio,Due senza / D Semifinali A-B,Sea Forest Waterway,KIRI TONTODONATI,7/28/2021 5:20,7/28/2021 5:40
+496,Nuoto,Finale Staffetta 4x200m stile libero U,Tokyo Aquatics Centre,STEFANO BALLO,7/28/2021 5:26,7/28/2021 6:15
+497,Nuoto,Finale Staffetta 4x200m stile libero U,Tokyo Aquatics Centre,MATTEO CIAMPI,7/28/2021 5:26,7/28/2021 6:15
+498,Nuoto,Finale Staffetta 4x200m stile libero U,Tokyo Aquatics Centre,STEFANO DI COLA,7/28/2021 5:26,7/28/2021 6:15
+499,Nuoto,Finale Staffetta 4x200m stile libero U,Tokyo Aquatics Centre,FILIPPO MEGLI,7/28/2021 5:26,7/28/2021 6:15
+500,Canoa,Batterie C1 slalom D - 1 run,Kasai Canoe Slalom Centre,MARTA BERTONCELLI,7/28/2021 5:50,7/28/2021 6:50
+501,Scherma,Semifinali Sciabola a squadre U,Makuhari Messe Hall B,LUCA CURATOLI,7/28/2021 6:40,7/28/2021 8:20
+502,Scherma,Semifinali Sciabola a squadre U,Makuhari Messe Hall B,ALDO MONTANO,7/28/2021 6:40,7/28/2021 8:20
+503,Scherma,Semifinali Sciabola a squadre U,Makuhari Messe Hall B,ENRICO BERRÈ,7/28/2021 6:40,7/28/2021 8:20
+504,Canoa,Batterie K1 slalom U - 1 run,Kasai Canoe Slalom Centre,GIOVANNI DE GENNARO,7/28/2021 6:50,7/28/2021 7:45
+505,Ciclismo,Strada - Cronometro U,Fuji International Speedway,ALBERTO BETTIOL,7/28/2021 7:00,7/28/2021 10:40
+506,Ciclismo,Strada - Cronometro U,Fuji International Speedway,FILIPPO GANNA,7/28/2021 7:00,7/28/2021 10:40
+507,Tuffi,Finale Trampolino 3m sincro U,Tokyo Aquatics Centre,LORENZO MARSAGLIA,7/28/2021 8:00,7/28/2021 9:00
+508,Tuffi,Finale Trampolino 3m sincro U,Tokyo Aquatics Centre,GIOVANNI TOCCI,7/28/2021 8:00,7/28/2021 9:00
+509,Canoa,Batterie C1 slalom D - 2 run,Kasai Canoe Slalom Centre,MARTA BERTONCELLI,7/28/2021 8:00,7/28/2021 9:00
+510,Canoa,Batterie K1 slalom U - 2 run,Kasai Canoe Slalom Centre,GIOVANNI DE GENNARO,7/28/2021 9:00,7/28/2021 9:45
+511,Judo,Ripescaggi -70 kg D,Nippon Budokan,ALICE BELLANDI,7/28/2021 10:00,7/28/2021 12:40
+512,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,SIMONE FONTECCHIO,7/28/2021 10:20,7/28/2021 12:20
+513,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,DANILO GALLINARI,7/28/2021 10:20,7/28/2021 12:20
+514,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,NICCOLÒ MANNION,7/28/2021 10:20,7/28/2021 12:20
+515,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,NICOLÒ MELLI,7/28/2021 10:20,7/28/2021 12:20
+516,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,RICCARDO MORASCHINI,7/28/2021 10:20,7/28/2021 12:20
+517,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,ALESSANDRO PAJOLA,7/28/2021 10:20,7/28/2021 12:20
+518,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,ACHILLE POLONARA,7/28/2021 10:20,7/28/2021 12:20
+519,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,GIAMPAOLO RICCI,7/28/2021 10:20,7/28/2021 12:20
+520,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,MARCO SPISSU,7/28/2021 10:20,7/28/2021 12:20
+521,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,AMEDEO VITTORIO TESSITORI,7/28/2021 10:20,7/28/2021 12:20
+522,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,STEFANO TONUT,7/28/2021 10:20,7/28/2021 12:20
+523,Pallacanestro,Girone B U Italia-Australia,Saitama Super Arena,MICHELE VITALI,7/28/2021 10:20,7/28/2021 12:20
+524,Nuoto,Batterie 100m stile libero D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/28/2021 12:00,7/28/2021 12:21
+525,Nuoto,Batterie 200m dorso U,Tokyo Aquatics Centre,MATTEO RESTIVO,7/28/2021 12:21,7/28/2021 12:36
+526,Scherma,Finale 1-2 posto Sciabola a squadre U,Makuhari Messe Hall B,LUCA CURATOLI,7/28/2021 12:30,7/28/2021 13:40
+527,Scherma,Finale 1-2 posto Sciabola a squadre U,Makuhari Messe Hall B,ALDO MONTANO,7/28/2021 12:30,7/28/2021 13:40
+528,Scherma,Finale 1-2 posto Sciabola a squadre U,Makuhari Messe Hall B,ENRICO BERRÈ,7/28/2021 12:30,7/28/2021 13:40
+529,Nuoto,Batterie 200m rana D,Tokyo Aquatics Centre,MARTINA CARRARO,7/28/2021 12:36,7/28/2021 12:54
+530,Nuoto,Batterie 200m rana D,Tokyo Aquatics Centre,FRANCESCA FANGIO,7/28/2021 12:36,7/28/2021 12:54
+531,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,SIMONE ANZANI,7/28/2021 12:40,7/28/2021 14:25
+532,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,MASSIMO COLACI,7/28/2021 12:40,7/28/2021 14:25
+533,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,GIANLUCA GALASSI,7/28/2021 12:40,7/28/2021 14:25
+534,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,SIMONE GIANNELLI,7/28/2021 12:40,7/28/2021 14:25
+535,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,OSMANY JUANTORENA,7/28/2021 12:40,7/28/2021 14:25
+536,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,JIRI KOVAR,7/28/2021 12:40,7/28/2021 14:25
+537,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,DANIELE LAVIA,7/28/2021 12:40,7/28/2021 14:25
+538,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,ALESSANDRO MICHIELETTO,7/28/2021 12:40,7/28/2021 14:25
+539,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,MATTEO PIANO,7/28/2021 12:40,7/28/2021 14:25
+540,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,RICCARDO SBERTOLI,7/28/2021 12:40,7/28/2021 14:25
+541,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,LUCA VETTORI,7/28/2021 12:40,7/28/2021 14:25
+542,Pallavolo,Giappone-Italia / Gruppo A U,Ariake Arena,IVAN ZAYTSEV,7/28/2021 12:40,7/28/2021 14:25
+543,Nuoto,Batterie 200m misti U,Tokyo Aquatics Centre,ALBERTO RAZZETTI,7/28/2021 12:54,7/28/2021 13:17
+544,Beach Volley,Fase a gironi U/D,Shiokaze Park,ADRIAN IGNACIO CARAMBULA RAURICH,7/28/2021 13:00,7/28/2021 15:50
+545,Beach Volley,Fase a gironi U/D,Shiokaze Park,MARTA MENEGATTI,7/28/2021 13:00,7/28/2021 15:50
+546,Beach Volley,Fase a gironi U/D,Shiokaze Park,VIKTORIA ORSI TOTH,7/28/2021 13:00,7/28/2021 15:50
+547,Beach Volley,Fase a gironi U/D,Shiokaze Park,ENRICO ROSSI,7/28/2021 13:00,7/28/2021 15:50
+548,Nuoto,Batterie Staffetta 4x200m stile libero D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/28/2021 13:17,7/28/2021 14:00
+549,Nuoto,Batterie Staffetta 4x200m stile libero D,Tokyo Aquatics Centre,STEFANIA PIROZZI,7/28/2021 13:17,7/28/2021 14:00
+550,Nuoto,Batterie Staffetta 4x200m stile libero D,Tokyo Aquatics Centre,ANNA CHIARA MASCOLO,7/28/2021 13:17,7/28/2021 14:00
+551,Nuoto,Batterie Staffetta 4x200m stile libero D,Tokyo Aquatics Centre,GIULIA VETRANO,7/28/2021 13:17,7/28/2021 14:00
+552,Golf,Primo giro U,Kasumigaseki Country Club,GUIDO MIGLIOZZI,7/29/2021 0:30,7/29/2021 8:30
+553,Golf,Primo giro U,Kasumigaseki Country Club,RENATO PARATORE,7/29/2021 0:30,7/29/2021 8:30
+554,Canottaggio,Due senza / U Finale B,Sea Forest Waterway,GIOVANNI ABAGNALE,7/29/2021 1:30,7/29/2021 1:40
+555,Canottaggio,Due senza / U Finale B,Sea Forest Waterway,VINCENZO ABBAGNALE,7/29/2021 1:30,7/29/2021 1:40
+556,Canottaggio,Due senza / D Fianle B,Sea Forest Waterway,AISHA ROCEK,7/29/2021 1:40,7/29/2021 1:50
+557,Canottaggio,Due senza / D Fianle B,Sea Forest Waterway,KIRI TONTODONATI,7/29/2021 1:40,7/29/2021 1:50
+558,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,CATERINA BOSETTI,7/29/2021 2:00,7/29/2021 3:45
+559,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,CRISTINA CHIRICHELLA,7/29/2021 2:00,7/29/2021 3:45
+560,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,ANNA DANESI,7/29/2021 2:00,7/29/2021 3:45
+561,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,MONICA DE GENNARO,7/29/2021 2:00,7/29/2021 3:45
+562,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,PAOLA OGECHI EGONU,7/29/2021 2:00,7/29/2021 3:45
+563,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,SARAH LUISA FAHR,7/29/2021 2:00,7/29/2021 3:45
+564,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,RAPHAELA FOLIE,7/29/2021 2:00,7/29/2021 3:45
+565,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,OFELIA MALINOV,7/29/2021 2:00,7/29/2021 3:45
+566,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,ALESSIA ORRO,7/29/2021 2:00,7/29/2021 3:45
+567,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,ELENA PIETRINI,7/29/2021 2:00,7/29/2021 3:45
+568,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,INDRE SOROKAITE,7/29/2021 2:00,7/29/2021 3:45
+569,Pallavolo,Italia-Argentina / Gruppo B D,Ariake Arena,MIRIAM FATIME SYLLA,7/29/2021 2:00,7/29/2021 3:45
+570,Scherma,Quarti Fioretto a squadre D,Makuhari Messe Hall B,MARTINA BATINI,7/29/2021 2:00,7/29/2021 9:25
+571,Scherma,Quarti Fioretto a squadre D,Makuhari Messe Hall B,ERICA CIPRESSA,7/29/2021 2:00,7/29/2021 9:25
+572,Scherma,Quarti Fioretto a squadre D,Makuhari Messe Hall B,ARIANNA ERRIGO,7/29/2021 2:00,7/29/2021 9:25
+573,Scherma,Quarti Fioretto a squadre D,Makuhari Messe Hall B,ALICE VOLPI,7/29/2021 2:00,7/29/2021 9:25
+574,Tiro a Volo,Qualificazioni Trap D - Day 2,Asaka Shooting Range,JESSICA ROSSI,7/29/2021 2:00,7/29/2021 9:55
+575,Tiro a Volo,Qualificazioni Trap D - Day 2,Asaka Shooting Range,SILVANA MARIA STANCO,7/29/2021 2:00,7/29/2021 9:55
+576,Tiro a Volo,Qualificazioni Trap U - Day 2,Asaka Shooting Range,MAURO DE FILIPPIS,7/29/2021 2:00,7/29/2021 9:55
+577,Tiro con l'arco,Trentaduesimi e Sedicesimi Individuale D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/29/2021 2:30,7/29/2021 7:30
+578,Tiro con l'arco,Trentaduesimi e Sedicesimi Individuale D,Yumenoshima Park Archery Field,CHIARA REBAGLIATI,7/29/2021 2:30,7/29/2021 7:30
+579,Canottaggio,Due di coppia PL / U Finale A,Sea Forest Waterway,STEFANO OPPO,7/29/2021 2:50,7/29/2021 3:10
+580,Canottaggio,Due di coppia PL / U Finale A,Sea Forest Waterway,PIETRO WILLY RUTA,7/29/2021 2:50,7/29/2021 3:10
+581,Ciclismo,BMX - Quarti U,Ariake Urban Sports Park,GIACOMO FANTONI,7/29/2021 3:00,7/29/2021 4:45
+582,Canottaggio,Due di coppia PL / D Finale A,Sea Forest Waterway,FEDERICA CESARINI,7/29/2021 3:10,7/29/2021 3:30
+583,Canottaggio,Due di coppia PL / D Finale A,Sea Forest Waterway,VALENTINA RODINI,7/29/2021 3:10,7/29/2021 3:30
+584,Nuoto,Finale 800m stile libero U,Tokyo Aquatics Centre,GREGORIO PALTRINIERI,7/29/2021 3:30,7/29/2021 3:44
+585,Canottaggio,Singolo / U Semifinali A-B,Sea Forest Waterway,GENNARO DI MAURO,7/29/2021 4:00,7/29/2021 4:20
+586,Pugilato,Ottavi 48-51 kg D,Kokugikan Arena,GIORDANA SORRENTINO,7/29/2021 4:00,7/29/2021 7:10
+587,Nuoto,Finale 100m stile libero U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,7/29/2021 4:37,7/29/2021 4:54
+588,Nuoto,Semifinali 200m rana D,Tokyo Aquatics Centre,FRANCESCA FANGIO,7/29/2021 4:54,7/29/2021 5:08
+589,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,CATERINA MARIANNA BANTI,7/29/2021 5:00,7/29/2021 11:00
+590,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,RUGGERO TITA,7/29/2021 5:00,7/29/2021 11:00
+591,Vela,Laser Radial D,Enoshima Yacht Harbour,SILVIA ZENNARO,7/29/2021 5:00,7/29/2021 11:00
+592,Vela,470 U,Enoshima Yacht Harbour,GIULIO CALABRÒ,7/29/2021 5:00,7/29/2021 11:00
+593,Vela,470 U,Enoshima Yacht Harbour,MATTIA CAMBONI,7/29/2021 5:00,7/29/2021 11:00
+594,Vela,RS:X U,Enoshima Yacht Harbour,MATTIA CAMBONI,7/29/2021 5:00,7/29/2021 11:00
+595,Vela,470 D,Enoshima Yacht Harbour,ELENA BERTA,7/29/2021 5:00,7/29/2021 11:00
+596,Vela,470 D,Enoshima Yacht Harbour,BIANCA CARUSO,7/29/2021 5:00,7/29/2021 11:00
+597,Vela,RS:X D,Enoshima Yacht Harbour,MARTA MAGGETTI,7/29/2021 5:00,7/29/2021 11:00
+598,Nuoto,Semifinali 200m misti U,Tokyo Aquatics Centre,ALBERTO RAZZETTI,7/29/2021 5:08,7/29/2021 5:31
+599,Scherma,Semifinali Fioretto a squadre D,Makuhari Messe Hall B,MARTINA BATINI,7/29/2021 6:55,7/29/2021 9:25
+600,Scherma,Semifinali Fioretto a squadre D,Makuhari Messe Hall B,ERICA CIPRESSA,7/29/2021 6:55,7/29/2021 9:25
+601,Scherma,Semifinali Fioretto a squadre D,Makuhari Messe Hall B,ARIANNA ERRIGO,7/29/2021 6:55,7/29/2021 9:25
+602,Scherma,Semifinali Fioretto a squadre D,Makuhari Messe Hall B,ALICE VOLPI,7/29/2021 6:55,7/29/2021 9:25
+603,Canoa,Semifinale C1 Slalom D,Kasai Canoe Slalom Centre,MARTA BERTONCELLI,7/29/2021 7:00,7/29/2021 8:55
+604,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,MATTEO AICARDI,7/29/2021 7:00,7/29/2021 9:50
+605,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,7/29/2021 7:00,7/29/2021 9:50
+606,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,MARCO DEL LUNGO,7/29/2021 7:00,7/29/2021 9:50
+607,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,7/29/2021 7:00,7/29/2021 9:50
+608,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,VINCENZO DOLCE,7/29/2021 7:00,7/29/2021 9:50
+609,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,7/29/2021 7:00,7/29/2021 9:50
+610,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,7/29/2021 7:00,7/29/2021 9:50
+611,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,7/29/2021 7:00,7/29/2021 9:50
+612,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,STEFANO LUONGO,7/29/2021 7:00,7/29/2021 9:50
+613,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,7/29/2021 7:00,7/29/2021 9:50
+614,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,7/29/2021 7:00,7/29/2021 9:50
+615,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,7/29/2021 7:00,7/29/2021 9:50
+616,Pallanuoto,Girone A U USA - Italia,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,7/29/2021 7:00,7/29/2021 9:50
+617,Tiro a Volo,Finale Trap D,Asaka Shooting Range,SILVANA MARIA STANCO,7/29/2021 7:30,7/29/2021 9:55
+618,Tiro con l'arco,Trentaduesimi e Sedicesimi Individuale D,Yumenoshima Park Archery Field,TATIANA ANDREOLI,7/29/2021 9:00,7/29/2021 12:55
+619,Scherma,Finale 3-4 posto Fioretto a squadre D,Makuhari Messe Hall B,MARTINA BATINI,7/29/2021 11:30,7/29/2021 14:30
+620,Scherma,Finale 3-4 posto Fioretto a squadre D,Makuhari Messe Hall B,ERICA CIPRESSA,7/29/2021 11:30,7/29/2021 14:30
+621,Scherma,Finale 3-4 posto Fioretto a squadre D,Makuhari Messe Hall B,ARIANNA ERRIGO,7/29/2021 11:30,7/29/2021 14:30
+622,Scherma,Finale 3-4 posto Fioretto a squadre D,Makuhari Messe Hall B,ALICE VOLPI,7/29/2021 11:30,7/29/2021 14:30
+623,Nuoto,Batterie 800m stile libero D,Tokyo Aquatics Centre,MARTINA RITA CARAMIGNOLI,7/29/2021 12:00,7/29/2021 12:43
+624,Nuoto,Batterie 800m stile libero D,Tokyo Aquatics Centre,SIMONA QUADARELLA,7/29/2021 12:00,7/29/2021 12:43
+625,Nuoto,Batterie 100m farfalla U,Tokyo Aquatics Centre,FEDERICO BURDISSO,7/29/2021 12:43,7/29/2021 13:05
+626,Nuoto,Batterie 100m farfalla U,Tokyo Aquatics Centre,SANTO CONDORELLI,7/29/2021 12:43,7/29/2021 13:05
+627,Ginnastica,Artistica - Finale All-Around Individuale D,Ariake Gymnastics Centre,ALICE D'AMATO,7/29/2021 12:50,7/29/2021 15:00
+628,Ginnastica,Artistica - Finale All-Around Individuale D,Ariake Gymnastics Centre,MARTINA MAGGIO,7/29/2021 12:50,7/29/2021 15:00
+629,Nuoto,Batterie 200m dorso D,Tokyo Aquatics Centre,MARGHERITA PANZIERA,7/29/2021 13:05,7/29/2021 13:21
+630,Nuoto,Batterie Staffetta 4x100m misti MX,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/29/2021 13:21,7/29/2021 13:34
+631,Nuoto,Batterie Staffetta 4x100m misti MX,Tokyo Aquatics Centre,ELENA DI LIDDO,7/29/2021 13:21,7/29/2021 13:34
+632,Nuoto,Batterie Staffetta 4x100m misti MX,Tokyo Aquatics Centre,SIMONE SABBIONI,7/29/2021 13:21,7/29/2021 13:34
+633,Nuoto,Batterie Staffetta 4x100m misti MX,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,7/29/2021 13:21,7/29/2021 13:34
+634,Golf,Secondo giro U,Kasumigaseki Country Club,GUIDO MIGLIOZZI,7/30/2021 0:30,7/30/2021 8:30
+635,Golf,Secondo giro U,Kasumigaseki Country Club,RENATO PARATORE,7/30/2021 0:30,7/30/2021 8:30
+636,Sport Equestri,Completo / Dressage individuale e a suqadre 1 giorno sessione 1,Equestrian Park,SUSANNA BORDONE,7/30/2021 1:30,7/30/2021 4:00
+637,Sport Equestri,Completo / Dressage individuale e a suqadre 1 giorno sessione 1,Equestrian Park,VITTORIA PANIZZON,7/30/2021 1:30,7/30/2021 4:00
+638,Sport Equestri,Completo / Dressage individuale e a suqadre 1 giorno sessione 1,Equestrian Park,ARIANNA SCHIVO,7/30/2021 1:30,7/30/2021 4:00
+639,Beach Volley,Fase a gironi U/D,Shiokaze Park,ADRIAN IGNACIO CARAMBULA RAURICH,7/30/2021 2:00,7/30/2021 4:50
+640,Beach Volley,Fase a gironi U/D,Shiokaze Park,ENRICO ROSSI,7/30/2021 2:00,7/30/2021 4:50
+641,Canottaggio,Singolo / U Finale B,Sea Forest Waterway,GENNARO DI MAURO,7/30/2021 2:15,7/30/2021 2:33
+642,Atletica,Alto U - Qualificazioni,Olympic Stadium,STEFANO SOTTILE,7/30/2021 2:15,7/30/2021 5:30
+643,Atletica,Alto U - Qualificazioni,Olympic Stadium,GIANMARCO TAMBERI,7/30/2021 2:15,7/30/2021 5:30
+644,Tiro con l'arco,Ottavi Individuale D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/30/2021 2:30,7/30/2021 4:15
+645,Atletica,3000m siepi U - Qualificazioni,Olympic Stadium,AHMED ABDELWAHED,7/30/2021 2:30,7/30/2021 5:30
+646,Atletica,3000m siepi U - Qualificazioni,Olympic Stadium,OSAMA ZOGHLAMI,7/30/2021 2:30,7/30/2021 5:30
+647,Atletica,3000m siepi U - Qualificazioni,Olympic Stadium,ALA ZOGHLAMI,7/30/2021 2:30,7/30/2021 5:30
+648,Atletica,Disco U - Qualificazioni,Olympic Stadium,GIOVANNI FALOCI,7/30/2021 2:45,7/30/2021 5:30
+649,Atletica,800m D - Qualificazioni,Olympic Stadium,ELENA BELLÒ,7/30/2021 3:25,7/30/2021 5:30
+650,Pugilato,Ottavi 57-60 kg D,Kokugikan Arena,REBECCA NICOLI,7/30/2021 4:00,7/30/2021 7:10
+651,Atletica,400m ostacoli U - Qualificazioni,Olympic Stadium,ALESSANDRO SIBILIO,7/30/2021 4:25,7/30/2021 5:30
+652,Scherma,Quarti Spada a squadre U,Makuhari Messe Hall B,MARCO FICHERA,7/30/2021 4:25,7/30/2021 8:20
+653,Scherma,Quarti Spada a squadre U,Makuhari Messe Hall B,ENRICO GAROZZO,7/30/2021 4:25,7/30/2021 8:20
+654,Scherma,Quarti Spada a squadre U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/30/2021 4:25,7/30/2021 8:20
+655,Nuoto,Semifinali 200m dorso D,Tokyo Aquatics Centre,MARGHERITA PANZIERA,7/30/2021 4:35,7/30/2021 5:25
+656,Vela,470 U,Enoshima Yacht Harbour,GIULIO CALABRÒ,7/30/2021 5:00,7/30/2021 11:00
+657,Vela,470 U,Enoshima Yacht Harbour,GIACOMO FERRARI,7/30/2021 5:00,7/30/2021 11:00
+658,Vela,Laser Radial D,Enoshima Yacht Harbour,SILVIA ZENNARO,7/30/2021 5:00,7/30/2021 11:00
+659,Vela,470 D,Enoshima Yacht Harbour,ELENA BERTA,7/30/2021 5:00,7/30/2021 11:00
+660,Vela,470 D,Enoshima Yacht Harbour,BIANCA CARUSO,7/30/2021 5:00,7/30/2021 11:00
+661,Atletica,100m D - Qualificazioni,Olympic Stadium,ANNA BONGIORNI,7/30/2021 5:15,7/30/2021 5:30
+662,Atletica,100m D - Qualificazioni,Olympic Stadium,VITTORIA FONTANA,7/30/2021 5:15,7/30/2021 5:30
+663,Scherma,Classificazione 5-8 posto Spada a squadre U,Makuhari Messe Hall B,GABRIELE CIMINI,7/30/2021 5:45,7/30/2021 8:20
+664,Scherma,Classificazione 5-8 posto Spada a squadre U,Makuhari Messe Hall B,MARCO FICHERA,7/30/2021 5:45,7/30/2021 8:20
+665,Scherma,Classificazione 5-8 posto Spada a squadre U,Makuhari Messe Hall B,ENRICO GAROZZO,7/30/2021 5:45,7/30/2021 8:20
+666,Scherma,Classificazione 5-8 posto Spada a squadre U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/30/2021 5:45,7/30/2021 8:20
+667,Canoa,Semifinale K1 Slalom U,Kasai Canoe Slalom Centre,GIOVANNI DE GENNARO,7/30/2021 7:00,7/30/2021 9:00
+668,Scherma,Finale 7-8 posto Spada a squadre U,Makuhari Messe Hall B,GABRIELE CIMINI,7/30/2021 7:30,7/30/2021 8:20
+669,Scherma,Finale 7-8 posto Spada a squadre U,Makuhari Messe Hall B,MARCO FICHERA,7/30/2021 7:30,7/30/2021 8:20
+670,Scherma,Finale 7-8 posto Spada a squadre U,Makuhari Messe Hall B,ENRICO GAROZZO,7/30/2021 7:30,7/30/2021 8:20
+671,Scherma,Finale 7-8 posto Spada a squadre U,Makuhari Messe Hall B,ANDREA SANTARELLI,7/30/2021 7:30,7/30/2021 8:20
+672,Tiro con l'arco,Quarti Individuale D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/30/2021 7:45,7/30/2021 10:20
+673,Beach Volley,Fase a gironi U/D,Shiokaze Park,DANIELE LUPO,7/30/2021 8:00,7/30/2021 10:50
+674,Beach Volley,Fase a gironi U/D,Shiokaze Park,PAOLO NICOLAI,7/30/2021 8:00,7/30/2021 10:50
+675,Tiro con l'arco,Semifinali Individuale D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/30/2021 8:45,7/30/2021 10:20
+676,Canoa,Finale K1 Slalom U,Kasai Canoe Slalom Centre,GIOVANNI DE GENNARO,7/30/2021 9:00,7/30/2021 10:00
+677,Tiro con l'arco,Finale 3-4 posto Individuale D,Yumenoshima Park Archery Field,LUCILLA BOARI,7/30/2021 9:30,7/30/2021 10:20
+678,Atletica,5000m D - Qualificazioni,Olympic Stadium,NADIA BATTOCLETTI,7/30/2021 12:00,7/30/2021 14:00
+679,Atletica,Triplo D - Qualificazioni,Olympic Stadium,DARIYA DERKACH,7/30/2021 12:05,7/30/2021 14:00
+680,Nuoto,Batterie 50m stile libero D,Tokyo Aquatics Centre,SANTO CONDORELLI,7/30/2021 12:23,7/30/2021 12:48
+681,Nuoto,Batterie 50m stile libero D,Tokyo Aquatics Centre,LORENZO ZAZZERI,7/30/2021 12:23,7/30/2021 12:48
+682,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,SIMONE ANZANI,7/30/2021 12:40,7/30/2021 14:25
+683,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,MASSIMO COLACI,7/30/2021 12:40,7/30/2021 14:25
+684,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,GIANLUCA GALASSI,7/30/2021 12:40,7/30/2021 14:25
+685,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,SIMONE GIANNELLI,7/30/2021 12:40,7/30/2021 14:25
+686,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,OSMANY JUANTORENA,7/30/2021 12:40,7/30/2021 14:25
+687,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,JIRI KOVAR,7/30/2021 12:40,7/30/2021 14:25
+688,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,DANIELE LAVIA,7/30/2021 12:40,7/30/2021 14:25
+689,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,ALESSANDRO MICHIELETTO,7/30/2021 12:40,7/30/2021 14:25
+690,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,MATTEO PIANO,7/30/2021 12:40,7/30/2021 14:25
+691,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,RICCARDO SBERTOLI,7/30/2021 12:40,7/30/2021 14:25
+692,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,LUCA VETTORI,7/30/2021 12:40,7/30/2021 14:25
+693,Pallavolo,Italia-Iran / Gruppo A U,Ariake Arena,IVAN ZAYTSEV,7/30/2021 12:40,7/30/2021 14:25
+694,Nuoto,Batterie 1500m stile libero U,Tokyo Aquatics Centre,DOMENICO ACERENZA,7/30/2021 12:48,7/30/2021 13:40
+695,Nuoto,Batterie 1500m stile libero U,Tokyo Aquatics Centre,GREGORIO PALTRINIERI,7/30/2021 12:48,7/30/2021 13:40
+696,Atletica,Staffetta 4x400m Mista - Qualificazioni,Olympic Stadium,VLADIMIR ACETI,7/30/2021 13:00,7/30/2021 13:30
+697,Atletica,Staffetta 4x400m Mista - Qualificazioni,Olympic Stadium,GIANCARLA DIMICH TREVISAN,7/30/2021 13:00,7/30/2021 13:30
+698,Atletica,Staffetta 4x400m Mista - Qualificazioni,Olympic Stadium,BRAYAN LOPEZ,7/30/2021 13:00,7/30/2021 13:30
+699,Atletica,Staffetta 4x400m Mista - Qualificazioni,Olympic Stadium,ALICE MANGIONE,7/30/2021 13:00,7/30/2021 13:30
+700,Beach Volley,Fase a gironi U/D,Shiokaze Park,MARTA MENEGATTI,7/30/2021 13:00,7/30/2021 15:50
+701,Beach Volley,Fase a gironi U/D,Shiokaze Park,VIKTORIA ORSI TOTH,7/30/2021 13:00,7/30/2021 15:50
+702,Atletica,10.000m U - Finale,Olympic Stadium,YEMANEBERHAN CRIPPA,7/30/2021 13:30,7/30/2021 14:00
+703,Nuoto,Batterie Staffetta 4x100m misti D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/30/2021 13:57,7/30/2021 14:10
+704,Nuoto,Batterie Staffetta 4x100m misti D,Tokyo Aquatics Centre,ELENA DI LIDDO,7/30/2021 13:57,7/30/2021 14:10
+705,Nuoto,Batterie Staffetta 4x100m misti D,Tokyo Aquatics Centre,MARGHERITA PANZIERA,7/30/2021 13:57,7/30/2021 14:10
+706,Nuoto,Batterie Staffetta 4x100m misti D,Tokyo Aquatics Centre,ARIANNA CASTIGLIONI,7/30/2021 13:57,7/30/2021 14:10
+707,Nuoto,Batterie Staffetta 4x100m misti U,Tokyo Aquatics Centre,FEDERICO BURDISSO,7/30/2021 14:10,7/30/2021 14:30
+708,Nuoto,Batterie Staffetta 4x100m misti U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,7/30/2021 14:10,7/30/2021 14:30
+709,Nuoto,Batterie Staffetta 4x100m misti U,Tokyo Aquatics Centre,THOMAS CECCON,7/30/2021 14:10,7/30/2021 14:30
+710,Nuoto,Batterie Staffetta 4x100m misti U,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,7/30/2021 14:10,7/30/2021 14:30
+711,Triathlon,Staffetta Mista,Odaiba Marine Park,ALICE BETTO,7/31/2021 0:30,7/31/2021 2:25
+712,Triathlon,Staffetta Mista,Odaiba Marine Park,GIANLUCA POZZATTI,7/31/2021 0:30,7/31/2021 2:25
+713,Triathlon,Staffetta Mista,Odaiba Marine Park,DELIAN DIMKO STATEFF,7/31/2021 0:30,7/31/2021 2:25
+714,Triathlon,Staffetta Mista,Odaiba Marine Park,VERENA STEINHAUSER,7/31/2021 0:30,7/31/2021 2:25
+715,Golf,Terzo giro U,Kasumigaseki Country Club,GUIDO MIGLIOZZI,7/31/2021 0:30,7/31/2021 8:30
+716,Golf,Terzo giro U,Kasumigaseki Country Club,RENATO PARATORE,7/31/2021 0:30,7/31/2021 8:30
+717,Sport Equestri,Completo / Dressage individuale e a suqadre 2 giorno sessione 3,Equestrian Park,SUSANNA BORDONE,7/31/2021 1:30,7/31/2021 4:00
+718,Sport Equestri,Completo / Dressage individuale e a suqadre 2 giorno sessione 3,Equestrian Park,VITTORIA PANIZZON,7/31/2021 1:30,7/31/2021 4:00
+719,Sport Equestri,Completo / Dressage individuale e a suqadre 2 giorno sessione 3,Equestrian Park,ARIANNA SCHIVO,7/31/2021 1:30,7/31/2021 4:00
+720,Atletica,400m ostacoli D - Qualificazioni,Olympic Stadium,ELEONORA MARCHIANDO,7/31/2021 2:00,7/31/2021 5:00
+721,Atletica,400m ostacoli D - Qualificazioni,Olympic Stadium,LINDA OLIVIERI,7/31/2021 2:00,7/31/2021 5:00
+722,Atletica,400m ostacoli D - Qualificazioni,Olympic Stadium,YADISLEIDY PEDROSO,7/31/2021 2:00,7/31/2021 5:00
+723,Tiro a Volo,Qualificazioni Trap MX,Asaka Shooting Range,MAURO DE FILIPPIS,7/31/2021 2:00,7/31/2021 7:50
+724,Tiro a Volo,Qualificazioni Trap MX,Asaka Shooting Range,JESSICA ROSSI,7/31/2021 2:00,7/31/2021 7:50
+725,Tiro con l'arco,Ottavi Individuale U,Yumenoshima Park Archery Field,MAURO NESPOLI,7/31/2021 2:30,7/31/2021 4:15
+726,Atletica,Disco D - Qualificazioni,Olympic Stadium,DAISY OSAKUE,7/31/2021 2:30,7/31/2021 5:00
+727,Atletica,Asta U - Qualificazioni,Olympic Stadium,CLAUDIO MICHEL STECCHI,7/31/2021 2:40,7/31/2021 5:00
+728,Atletica,100m ostacoli D - Qualificazioni,Olympic Stadium,LUMINOSA BOGLIOLO,7/31/2021 3:45,7/31/2021 5:00
+729,Atletica,100m ostacoli D - Qualificazioni,Olympic Stadium,ELISA MARIA DI LAZZARO,7/31/2021 3:45,7/31/2021 5:00
+730,Nuoto,Finale 800m stile libero D,Tokyo Aquatics Centre,SIMONA QUADARELLA,7/31/2021 3:46,7/31/2021 4:11
+731,Pugilato,Semifinali 54-57 kg D,Kokugikan Arena,IRMA TESTA,7/31/2021 4:00,7/31/2021 9:55
+732,Nuoto,Semifinali 50m stile libero U,Tokyo Aquatics Centre,LORENZO ZAZZERI,7/31/2021 4:11,7/31/2021 4:32
+733,Scherma,Quarti Sciabola a squadre D,Makuhari Messe Hall B,MICHELA BATTISTON,7/31/2021 4:25,7/31/2021 8:20
+734,Scherma,Quarti Sciabola a squadre D,Makuhari Messe Hall B,MARTINA CRISCIO,7/31/2021 4:25,7/31/2021 8:20
+735,Scherma,Quarti Sciabola a squadre D,Makuhari Messe Hall B,ROSSELLA GREGORIO,7/31/2021 4:25,7/31/2021 8:20
+736,Scherma,Quarti Sciabola a squadre D,Makuhari Messe Hall B,IRENE VECCHI,7/31/2021 4:25,7/31/2021 8:20
+737,Nuoto,Finale Staffetta 4x100 misti MX,Tokyo Aquatics Centre,THOMAS CECCON,7/31/2021 4:43,7/31/2021 5:20
+738,Nuoto,Finale Staffetta 4x100 misti MX,Tokyo Aquatics Centre,ELENA DI LIDDO,7/31/2021 4:43,7/31/2021 5:20
+739,Nuoto,Finale Staffetta 4x100 misti MX,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,7/31/2021 4:43,7/31/2021 5:20
+740,Nuoto,Finale Staffetta 4x100 misti MX,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,7/31/2021 4:43,7/31/2021 5:20
+741,Judo,Quarti Mixed Team,Nippon Budokan,FABIO BASILE,7/31/2021 5:00,7/31/2021 7:30
+742,Judo,Quarti Mixed Team,Nippon Budokan,ALICE BELLANDI,7/31/2021 5:00,7/31/2021 7:30
+743,Judo,Quarti Mixed Team,Nippon Budokan,MARIA CENTRACCHIO,7/31/2021 5:00,7/31/2021 7:30
+744,Judo,Quarti Mixed Team,Nippon Budokan,ODETTE GIUFFRIDA,7/31/2021 5:00,7/31/2021 7:30
+745,Judo,Quarti Mixed Team,Nippon Budokan,MANUEL LOMBARDO,7/31/2021 5:00,7/31/2021 7:30
+746,Judo,Quarti Mixed Team,Nippon Budokan,FRANCESCA MILANI,7/31/2021 5:00,7/31/2021 7:30
+747,Judo,Quarti Mixed Team,Nippon Budokan,NICHOLAS MUNGAI,7/31/2021 5:00,7/31/2021 7:30
+748,Judo,Quarti Mixed Team,Nippon Budokan,CHRISTIAN PARLATI,7/31/2021 5:00,7/31/2021 7:30
+749,Tiro a Segno,Carabina 50m 3posizioni Qualificazioni D,Asaka Shooting Range,SOFIA CECCARELLO,7/31/2021 5:00,7/31/2021 10:10
+750,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,CATERINA MARIANNA BANTI,7/31/2021 5:00,7/31/2021 11:00
+751,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,RUGGERO TITA,7/31/2021 5:00,7/31/2021 11:00
+752,Scherma,Semifinali Sciabola a squadre D,Makuhari Messe Hall B,MICHELA BATTISTON,7/31/2021 6:40,7/31/2021 8:20
+753,Scherma,Semifinali Sciabola a squadre D,Makuhari Messe Hall B,MARTINA CRISCIO,7/31/2021 6:40,7/31/2021 8:20
+754,Scherma,Semifinali Sciabola a squadre D,Makuhari Messe Hall B,ROSSELLA GREGORIO,7/31/2021 6:40,7/31/2021 8:20
+755,Scherma,Semifinali Sciabola a squadre D,Makuhari Messe Hall B,IRENE VECCHI,7/31/2021 6:40,7/31/2021 8:20
+756,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,SIMONE FONTECCHIO,7/31/2021 6:40,7/31/2021 8:40
+757,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,DANILO GALLINARI,7/31/2021 6:40,7/31/2021 8:40
+758,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,NICCOLÒ MANNION,7/31/2021 6:40,7/31/2021 8:40
+759,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,NICOLÒ MELLI,7/31/2021 6:40,7/31/2021 8:40
+760,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,RICCARDO MORASCHINI,7/31/2021 6:40,7/31/2021 8:40
+761,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,ALESSANDRO PAJOLA,7/31/2021 6:40,7/31/2021 8:40
+762,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,ACHILLE POLONARA,7/31/2021 6:40,7/31/2021 8:40
+763,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,GIAMPAOLO RICCI,7/31/2021 6:40,7/31/2021 8:40
+764,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,MARCO SPISSU,7/31/2021 6:40,7/31/2021 8:40
+765,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,AMEDEO VITTORIO TESSITORI,7/31/2021 6:40,7/31/2021 8:40
+766,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,STEFANO TONUT,7/31/2021 6:40,7/31/2021 8:40
+767,Pallacanestro,Girone B U Italia-Nigeria,Saitama Super Arena,MICHELE VITALI,7/31/2021 6:40,7/31/2021 8:40
+768,Vela,RS:X D - Medal Race,Enoshima Yacht Harbour,MARTA MAGGETTI,7/31/2021 7:33,7/31/2021 8:33
+769,Tiro con l'arco,Quarti Individuale U,Yumenoshima Park Archery Field,MAURO NESPOLI,7/31/2021 7:45,7/31/2021 10:20
+770,Vela,RS:X U - Medal Race,Enoshima Yacht Harbour,MATTIA CAMBONI,7/31/2021 8:33,7/31/2021 11:00
+771,Tiro con l'arco,Semifinali Individuale U,Yumenoshima Park Archery Field,MAURO NESPOLI,7/31/2021 8:45,7/31/2021 10:20
+772,Pesi,81 kg U Gruppo A,Tokyo International Forum,ANTONINO PIZZOLATO,7/31/2021 8:50,7/31/2021 11:00
+773,Tiro con l'arco,Finale 1-2 posto Individuale U,Yumenoshima Park Archery Field,MAURO NESPOLI,7/31/2021 9:45,7/31/2021 10:20
+774,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,MATTEO AICARDI,7/31/2021 11:20,7/31/2021 14:10
+775,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,7/31/2021 11:20,7/31/2021 14:10
+776,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,MARCO DEL LUNGO,7/31/2021 11:20,7/31/2021 14:10
+777,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,7/31/2021 11:20,7/31/2021 14:10
+778,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,VINCENZO DOLCE,7/31/2021 11:20,7/31/2021 14:10
+779,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,7/31/2021 11:20,7/31/2021 14:10
+780,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,7/31/2021 11:20,7/31/2021 14:10
+781,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,7/31/2021 11:20,7/31/2021 14:10
+782,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,STEFANO LUONGO,7/31/2021 11:20,7/31/2021 14:10
+783,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,7/31/2021 11:20,7/31/2021 14:10
+784,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,7/31/2021 11:20,7/31/2021 14:10
+785,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,7/31/2021 11:20,7/31/2021 14:10
+786,Pallanuoto,Girone A U Italia - Giappone,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,7/31/2021 11:20,7/31/2021 14:10
+787,Scherma,Finale 3-4 posto Sciabola a squadre D,Makuhari Messe Hall B,MICHELA BATTISTON,7/31/2021 11:30,7/31/2021 13:40
+788,Scherma,Finale 3-4 posto Sciabola a squadre D,Makuhari Messe Hall B,MARTINA CRISCIO,7/31/2021 11:30,7/31/2021 13:40
+789,Scherma,Finale 3-4 posto Sciabola a squadre D,Makuhari Messe Hall B,ROSSELLA GREGORIO,7/31/2021 11:30,7/31/2021 13:40
+790,Scherma,Finale 3-4 posto Sciabola a squadre D,Makuhari Messe Hall B,IRENE VECCHI,7/31/2021 11:30,7/31/2021 13:40
+791,Atletica,Lungo U - Qualificazioni,Olympic Stadium,FILIPPO RANDAZZO,7/31/2021 12:10,7/31/2021 14:55
+792,Atletica,100m D - Semifinali,Olympic Stadium,ANNA BONGIORNI,7/31/2021 12:15,7/31/2021 14:55
+793,Atletica,100m U - Qualificazioni,Olympic Stadium,LAMONT MARCELL JACOBS,7/31/2021 12:45,7/31/2021 14:55
+794,Atletica,100m U - Qualificazioni,Olympic Stadium,FILIPPO TORTU,7/31/2021 12:45,7/31/2021 14:55
+795,Atletica,800m D - Semifinali,Olympic Stadium,ELENA BELLÒ,7/31/2021 13:50,7/31/2021 14:55
+796,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,CATERINA BOSETTI,7/31/2021 14:45,7/31/2021 15:30
+797,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,CRISTINA CHIRICHELLA,7/31/2021 14:45,7/31/2021 15:30
+798,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,ANNA DANESI,7/31/2021 14:45,7/31/2021 15:30
+799,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,MONICA DE GENNARO,7/31/2021 14:45,7/31/2021 15:30
+800,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,PAOLA OGECHI EGONU,7/31/2021 14:45,7/31/2021 15:30
+801,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,SARAH LUISA FAHR,7/31/2021 14:45,7/31/2021 15:30
+802,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,RAPHAELA FOLIE,7/31/2021 14:45,7/31/2021 15:30
+803,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,OFELIA MALINOV,7/31/2021 14:45,7/31/2021 15:30
+804,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,ALESSIA ORRO,7/31/2021 14:45,7/31/2021 15:30
+805,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,ELENA PIETRINI,7/31/2021 14:45,7/31/2021 15:30
+806,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,INDRE SOROKAITE,7/31/2021 14:45,7/31/2021 15:30
+807,Pallavolo,Cina-Italia / Gruppo B D,Ariake Arena,MIRIAM FATIME SYLLA,7/31/2021 14:45,7/31/2021 15:30
+808,Golf,Quarto giro U,Kasumigaseki Country Club,GUIDO MIGLIOZZI,8/1/2021 0:30,8/1/2021 9:00
+809,Golf,Quarto giro U,Kasumigaseki Country Club,RENATO PARATORE,8/1/2021 0:30,8/1/2021 9:00
+810,Sport Equestri,Completo / Cross Country individuale e a squadre,Sea Forest Cross-Country Course,SUSANNA BORDONE,8/1/2021 0:45,8/1/2021 4:55
+811,Sport Equestri,Completo / Cross Country individuale e a squadre,Sea Forest Cross-Country Course,VITTORIA PANIZZON,8/1/2021 0:45,8/1/2021 4:55
+812,Sport Equestri,Completo / Cross Country individuale e a squadre,Sea Forest Cross-Country Course,ARIANNA SCHIVO,8/1/2021 0:45,8/1/2021 4:55
+813,Tiro a Segno,Pistola 25m Qualificazioni U - Stage 1,Asaka Shooting Range,TOMMASO CHELLI,8/1/2021 1:30,8/1/2021 6:15
+814,Tiro a Segno,Pistola 25m Qualificazioni U - Stage 1,Asaka Shooting Range,RICCARDO MAZZETTI,8/1/2021 1:30,8/1/2021 6:15
+815,Atletica,400m U - Qualificazioni,Olympic Stadium,DAVIDE RE,8/1/2021 2:10,8/1/2021 5:00
+816,Atletica,400m U - Qualificazioni,Olympic Stadium,EDOARDO SCOTTI,8/1/2021 2:10,8/1/2021 5:00
+817,Nuoto,Finale 50m stile libero U,Tokyo Aquatics Centre,LORENZO ZAZZERI,8/1/2021 3:30,8/1/2021 3:37
+818,Nuoto,Finale 1500m stile libero U,Tokyo Aquatics Centre,GREGORIO PALTRINIERI,8/1/2021 3:44,8/1/2021 4:15
+819,Scherma,Quarti Fioretto a squadre U Italia- Giappone,Makuhari Messe Hall B,ANDREA CASSARÀ,8/1/2021 3:45,8/1/2021 9:00
+820,Scherma,Quarti Fioretto a squadre U Italia- Giappone,Makuhari Messe Hall B,ALESSIO FOCONI,8/1/2021 3:45,8/1/2021 9:00
+821,Scherma,Quarti Fioretto a squadre U Italia- Giappone,Makuhari Messe Hall B,DANIELE GAROZZO,8/1/2021 3:45,8/1/2021 9:00
+822,Nuoto,Finale Staffetta 4x100m misti D,Tokyo Aquatics Centre,ARIANNA CASTIGLIONI,8/1/2021 4:15,8/1/2021 4:36
+823,Nuoto,Finale Staffetta 4x100m misti D,Tokyo Aquatics Centre,ELENA DI LIDDO,8/1/2021 4:15,8/1/2021 4:36
+824,Nuoto,Finale Staffetta 4x100m misti D,Tokyo Aquatics Centre,MARGHERITA PANZIERA,8/1/2021 4:15,8/1/2021 4:36
+825,Nuoto,Finale Staffetta 4x100m misti D,Tokyo Aquatics Centre,FEDERICA PELLEGRINI,8/1/2021 4:15,8/1/2021 4:36
+826,Nuoto,Finale Staffetta 4x100m misti U,Tokyo Aquatics Centre,FEDERICO BURDISSO,8/1/2021 4:36,8/1/2021 5:25
+827,Nuoto,Finale Staffetta 4x100m misti U,Tokyo Aquatics Centre,THOMAS CECCON,8/1/2021 4:36,8/1/2021 5:25
+828,Nuoto,Finale Staffetta 4x100m misti U,Tokyo Aquatics Centre,NICOLÒ MARTINENGHI,8/1/2021 4:36,8/1/2021 5:25
+829,Nuoto,Finale Staffetta 4x100m misti U,Tokyo Aquatics Centre,ALESSANDRO MIRESSI,8/1/2021 4:36,8/1/2021 5:25
+830,Vela,470 U,Enoshima Yacht Harbour,GIULIO CALABRÒ,8/1/2021 5:00,8/1/2021 11:00
+831,Vela,470 U,Enoshima Yacht Harbour,GIACOMO FERRARI,8/1/2021 5:00,8/1/2021 11:00
+832,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,CATERINA MARIANNA BANTI,8/1/2021 5:00,8/1/2021 11:00
+833,Vela,Nacra 17 Foiling MX,Enoshima Yacht Harbour,RUGGERO TITA,8/1/2021 5:00,8/1/2021 11:00
+834,Vela,Laser Radial D - Medal Race,Enoshima Yacht Harbour,SILVIA ZENNARO,8/1/2021 5:00,8/1/2021 11:00
+835,Vela,470 D,Enoshima Yacht Harbour,ELENA BERTA,8/1/2021 5:00,8/1/2021 11:00
+836,Vela,470 D,Enoshima Yacht Harbour,BIANCA CARUSO,8/1/2021 5:00,8/1/2021 11:00
+837,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,SIMONE ANZANI,8/1/2021 9:25,8/1/2021 11:10
+838,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,MASSIMO COLACI,8/1/2021 9:25,8/1/2021 11:10
+839,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,GIANLUCA GALASSI,8/1/2021 9:25,8/1/2021 11:10
+840,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,SIMONE GIANNELLI,8/1/2021 9:25,8/1/2021 11:10
+841,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,OSMANY JUANTORENA,8/1/2021 9:25,8/1/2021 11:10
+842,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,JIRI KOVAR,8/1/2021 9:25,8/1/2021 11:10
+843,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,DANIELE LAVIA,8/1/2021 9:25,8/1/2021 11:10
+844,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,ALESSANDRO MICHIELETTO,8/1/2021 9:25,8/1/2021 11:10
+845,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,MATTEO PIANO,8/1/2021 9:25,8/1/2021 11:10
+846,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,RICCARDO SBERTOLI,8/1/2021 9:25,8/1/2021 11:10
+847,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,LUCA VETTORI,8/1/2021 9:25,8/1/2021 11:10
+848,Pallavolo,Italia-Venezuela / Gruppo A U,Ariake Arena,IVAN ZAYTSEV,8/1/2021 9:25,8/1/2021 11:10
+849,Atletica,400m ostacoli U - Semifinali,Olympic Stadium,ALESSANDRO SIBILIO,8/1/2021 12:00,8/1/2021 14:55
+850,Atletica,Alto U - Finale,Olympic Stadium,GIANMARCO TAMBERI,8/1/2021 12:00,8/1/2021 14:55
+851,Atletica,100m U - Semifinali,Olympic Stadium,LAMONT MARCELL JACOBS,8/1/2021 12:00,8/1/2021 14:55
+852,Atletica,100m U - Semifinali,Olympic Stadium,FILIPPO TORTU,8/1/2021 12:00,8/1/2021 14:55
+853,Atletica,100m ostacoli D - Semifinali,Olympic Stadium,LUMINOSA BOGLIOLO,8/1/2021 12:00,8/1/2021 14:55
+854,Atletica,100m U - Finale,Olympic Stadium,LAMONT MARCELL JACOBS,8/1/2021 12:00,8/1/2021 14:55
+855,Tiro a Segno,Pistola 25m Qualificazioni U - Stage 2,Asaka Shooting Range,TOMMASO CHELLI,8/2/2021 1:30,8/2/2021 11:00
+856,Tiro a Segno,Pistola 25m Qualificazioni U - Stage 2,Asaka Shooting Range,RICCARDO MAZZETTI,8/2/2021 1:30,8/2/2021 11:00
+857,Canoa,Batterie K1 200m D,Sea Forest Waterway,FRANCESCA GENZO,8/2/2021 2:30,8/2/2021 3:05
+858,Atletica,1500m D - Qualificazioni,Olympic Stadium,FEDERICA DEL BUONO,8/2/2021 2:35,8/2/2021 4:55
+859,Atletica,1500m D - Qualificazioni,Olympic Stadium,GAIA SABBATINI,8/2/2021 2:35,8/2/2021 4:55
+860,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,MATTEO AICARDI,8/2/2021 3:00,8/2/2021 5:50
+861,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,8/2/2021 3:00,8/2/2021 5:50
+862,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,MARCO DEL LUNGO,8/2/2021 3:00,8/2/2021 5:50
+863,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,8/2/2021 3:00,8/2/2021 5:50
+864,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,VINCENZO DOLCE,8/2/2021 3:00,8/2/2021 5:50
+865,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,8/2/2021 3:00,8/2/2021 5:50
+866,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,8/2/2021 3:00,8/2/2021 5:50
+867,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,8/2/2021 3:00,8/2/2021 5:50
+868,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,STEFANO LUONGO,8/2/2021 3:00,8/2/2021 5:50
+869,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,8/2/2021 3:00,8/2/2021 5:50
+870,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,8/2/2021 3:00,8/2/2021 5:50
+871,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,8/2/2021 3:00,8/2/2021 5:50
+872,Pallanuoto,Girone A U Ungheria - Italia,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,8/2/2021 3:00,8/2/2021 5:50
+873,Atletica,Lungo U - Finale,Olympic Stadium,FILIPPO RANDAZZO,8/2/2021 3:20,8/2/2021 4:55
+874,Canoa,Batterie K1 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/2/2021 3:21,8/2/2021 4:08
+875,Atletica,200m D - Qualificazioni,Olympic Stadium,GLORIA HOOPER,8/2/2021 3:30,8/2/2021 4:55
+876,Atletica,200m D - Qualificazioni,Olympic Stadium,DALIA KADDARI,8/2/2021 3:30,8/2/2021 4:55
+877,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,CATERINA BOSETTI,8/2/2021 4:05,8/2/2021 5:50
+878,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,CRISTINA CHIRICHELLA,8/2/2021 4:05,8/2/2021 5:50
+879,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,ANNA DANESI,8/2/2021 4:05,8/2/2021 5:50
+880,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,MONICA DE GENNARO,8/2/2021 4:05,8/2/2021 5:50
+881,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,PAOLA OGECHI EGONU,8/2/2021 4:05,8/2/2021 5:50
+882,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,SARAH LUISA FAHR,8/2/2021 4:05,8/2/2021 5:50
+883,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,RAPHAELA FOLIE,8/2/2021 4:05,8/2/2021 5:50
+884,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,OFELIA MALINOV,8/2/2021 4:05,8/2/2021 5:50
+885,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,ALESSIA ORRO,8/2/2021 4:05,8/2/2021 5:50
+886,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,ELENA PIETRINI,8/2/2021 4:05,8/2/2021 5:50
+887,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,INDRE SOROKAITE,8/2/2021 4:05,8/2/2021 5:50
+888,Pallavolo,Stati Uniti-Italia / Gruppo B D,Ariake Arena,MIRIAM FATIME SYLLA,8/2/2021 4:05,8/2/2021 5:50
+889,Tiro a Segno,Carabina 50m 3posizioni Qualificazioni U,Asaka Shooting Range,LORENZO BACCI,8/2/2021 4:30,8/2/2021 11:00
+890,Tiro a Segno,Carabina 50m 3posizioni Qualificazioni U,Asaka Shooting Range,MARCO DE NICOLO,8/2/2021 4:30,8/2/2021 11:00
+891,Canoa,Quarti K1 200m D,Sea Forest Waterway,FRANCESCA GENZO,8/2/2021 5:00,8/2/2021 5:21
+892,Canoa,Quarti K1 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/2/2021 5:37,8/2/2021 6:08
+893,Tuffi,Qualificazioni Trampolino 3m U,Tokyo Aquatics Centre,LORENZO MARSAGLIA,8/2/2021 8:00,8/2/2021 10:30
+894,Ciclismo,Pista - Qualificazioni Team Sprint D,Izu Velodrome,ELISA BALSAMO,8/2/2021 8:30,8/2/2021 8:54
+895,Ciclismo,Pista - Qualificazioni Team Sprint D,Izu Velodrome,RACHELE BARBIERI,8/2/2021 8:30,8/2/2021 8:54
+896,Ciclismo,Pista - Qualificazioni Team Sprint D,Izu Velodrome,VITTORIA GUAZZINI,8/2/2021 8:30,8/2/2021 8:54
+897,Ciclismo,Pista - Qualificazioni Team Sprint D,Izu Velodrome,LETIZIA PATERNOSTER,8/2/2021 8:30,8/2/2021 8:54
+898,Ciclismo,Pista - Qualificazioni Team Pursuit D,Izu Velodrome,LETIZIA PATERNOSTER,8/2/2021 8:54,8/2/2021 9:50
+899,Ciclismo,Pista - Qualificazioni Team Pursuit D,Izu Velodrome,ELISA BALSAMO,8/2/2021 8:54,8/2/2021 9:50
+900,Ciclismo,Pista - Qualificazioni Team Pursuit D,Izu Velodrome,RACHELE BARBIERI,8/2/2021 8:54,8/2/2021 9:50
+901,Ciclismo,Pista - Qualificazioni Team Pursuit D,Izu Velodrome,VITTORIA GUAZZINI,8/2/2021 8:54,8/2/2021 9:50
+902,Beach Volley,Ottavi U/D,Shiokaze Park,DANIELE LUPO,8/2/2021 10:00,8/2/2021 11:50
+903,Beach Volley,Ottavi U/D,Shiokaze Park,PAOLO NICOLAI,8/2/2021 10:00,8/2/2021 11:50
+904,Sport Equestri,Completo / Salto finale a squadre e qualificazione individuale,Equestrian Park,SUSANNA BORDONE,8/2/2021 10:00,8/2/2021 15:25
+905,Sport Equestri,Completo / Salto finale a squadre e qualificazione individuale,Equestrian Park,VITTORIA PANIZZON,8/2/2021 10:00,8/2/2021 15:25
+906,Sport Equestri,Completo / Salto finale a squadre e qualificazione individuale,Equestrian Park,ARIANNA SCHIVO,8/2/2021 10:00,8/2/2021 15:25
+907,Ciclismo,Pista - Qualificazioni Team Pursuit U,Izu Velodrome,SIMONE CONSONNI,8/2/2021 10:02,8/2/2021 11:00
+908,Ciclismo,Pista - Qualificazioni Team Pursuit U,Izu Velodrome,FILIPPO GANNA,8/2/2021 10:02,8/2/2021 11:00
+909,Ciclismo,Pista - Qualificazioni Team Pursuit U,Izu Velodrome,FRANCESCO LAMON,8/2/2021 10:02,8/2/2021 11:00
+910,Ciclismo,Pista - Qualificazioni Team Pursuit U,Izu Velodrome,JONATHAN MILAN,8/2/2021 10:02,8/2/2021 11:00
+911,Ginnastica,Artistica - Finale Corpo libero D,Ariake Gymnastics Centre,VANESSA FERRARI,8/2/2021 10:55,8/2/2021 12:15
+912,Atletica,Asta D - Qualificazioni,Olympic Stadium,ROBERTA BRUNI,8/2/2021 12:20,8/2/2021 15:00
+913,Atletica,Asta D - Qualificazioni,Olympic Stadium,ELISA MOLINAROLO,8/2/2021 12:20,8/2/2021 15:00
+914,Atletica,200m D - Semifinali,Olympic Stadium,GLORIA HOOPER,8/2/2021 12:25,8/2/2021 15:00
+915,Atletica,200m D - Semifinali,Olympic Stadium,DALIA KADDARI,8/2/2021 12:25,8/2/2021 15:00
+916,Nuoto Sincronizzato,Qualificazioni Duo programma libero,Tokyo Aquatics Centre,LINDA CERRUTI,8/2/2021 12:30,8/2/2021 14:30
+917,Nuoto Sincronizzato,Qualificazioni Duo programma libero,Tokyo Aquatics Centre,COSTANZA FERRO,8/2/2021 12:30,8/2/2021 14:30
+918,Atletica,Disco D - Finale,Olympic Stadium,DAISY OSAKUE,8/2/2021 13:00,8/2/2021 15:00
+919,Sport Equestri,Completo / Salto finale individuale,Equestrian Park,SUSANNA BORDONE,8/2/2021 13:25,8/2/2021 15:25
+920,Sport Equestri,Completo / Salto finale individuale,Equestrian Park,VITTORIA PANIZZON,8/2/2021 13:25,8/2/2021 15:25
+921,Sport Equestri,Completo / Salto finale individuale,Equestrian Park,ARIANNA SCHIVO,8/2/2021 13:25,8/2/2021 15:25
+922,Atletica,400m U - Semifinali,Olympic Stadium,DAVIDE RE,8/2/2021 13:35,8/2/2021 15:00
+923,Atletica,400m ostacoli D - Semifinali,Olympic Stadium,LINDA OLIVIERI,8/2/2021 13:35,8/2/2021 15:00
+924,Atletica,400m ostacoli D - Semifinali,Olympic Stadium,YADISLEIDY PEDROSO,8/2/2021 13:35,8/2/2021 15:00
+925,Atletica,3000m siepi U - Finale,Olympic Stadium,AHMED ABDELWAHED,8/2/2021 14:15,8/2/2021 15:00
+926,Atletica,3000m siepi U - Finale,Olympic Stadium,ALA ZOGHLAMI,8/2/2021 14:15,8/2/2021 15:00
+927,Atletica,5000m D - Finale,Olympic Stadium,NADIA BATTOCLETTI,8/2/2021 14:40,8/2/2021 15:00
+928,Atletica,Triplo U - Qualificazione,Olympic Stadium,TOBIA BOCCHI,8/3/2021 2:00,8/3/2021 5:35
+929,Atletica,Triplo U - Qualificazione,Olympic Stadium,ANDREA DALLAVALLE,8/3/2021 2:00,8/3/2021 5:35
+930,Atletica,Triplo U - Qualificazione,Olympic Stadium,CHIEBUKA EMMANUEL IHEMEJE,8/3/2021 2:00,8/3/2021 5:35
+931,Canoa,Semifinali K1 200m D,Sea Forest Waterway,FRANCESCA GENZO,8/3/2021 2:30,8/3/2021 2:44
+932,Canoa,Semifinali K1 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/3/2021 3:00,8/3/2021 3:23
+933,Atletica,200m U - Qualificazione,Olympic Stadium,ESEOSA FOSTINE DESALU,8/3/2021 4:05,8/3/2021 5:35
+934,Atletica,200m U - Qualificazione,Olympic Stadium,ANTONIO BALDASSARRE INFANTINO,8/3/2021 4:05,8/3/2021 5:35
+935,Canoa,Finali K1 200m D (eventuale),Sea Forest Waterway,FRANCESCA GENZO,8/3/2021 4:37,8/3/2021 4:45
+936,Vela,470 D,Enoshima Yacht Harbour,ELENA BERTA,8/3/2021 5:05,8/3/2021 11:00
+937,Vela,470 D,Enoshima Yacht Harbour,BIANCA CARUSO,8/3/2021 5:05,8/3/2021 11:00
+938,Canoa,Finale B K1 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/3/2021 5:12,8/3/2021 5:20
+939,Vela,470 U,Enoshima Yacht Harbour,GIULIO CALABRÒ,8/3/2021 5:15,8/3/2021 11:00
+940,Vela,470 U,Enoshima Yacht Harbour,GIACOMO FERRARI,8/3/2021 5:15,8/3/2021 11:00
+941,Atletica,400m ostacoli U - Finale,Olympic Stadium,ALESSANDRO SIBILIO,8/3/2021 5:20,8/3/2021 5:35
+942,Canoa,Finali K1 1000m U (eventuale),Sea Forest Waterway,SAMUELE BURGO,8/3/2021 5:20,8/3/2021 5:39
+943,Vela,Nacra 17 Foiling MX - Medal Race,Enoshima Yacht Harbour,CATERINA MARIANNA BANTI,8/3/2021 8:30,8/3/2021 9:55
+944,Vela,Nacra 17 Foiling MX - Medal Race,Enoshima Yacht Harbour,RUGGERO TITA,8/3/2021 8:30,8/3/2021 9:55
+945,Ciclismo,Pista - Eliminatorie Team Pursuit D ITA- GER,Izu Velodrome,ELISA BALSAMO,8/3/2021 8:51,8/3/2021 8:58
+946,Ciclismo,Pista - Eliminatorie Team Pursuit D ITA- GER,Izu Velodrome,RACHELE BARBIERI,8/3/2021 8:51,8/3/2021 8:58
+947,Ciclismo,Pista - Eliminatorie Team Pursuit D ITA- GER,Izu Velodrome,VITTORIA GUAZZINI,8/3/2021 8:51,8/3/2021 8:58
+948,Ciclismo,Pista - Eliminatorie Team Pursuit D ITA- GER,Izu Velodrome,LETIZIA PATERNOSTER,8/3/2021 8:51,8/3/2021 8:58
+949,Ciclismo,Pista - Eliminatorie Team Pursuit U  ITA - NZL,Izu Velodrome,SIMONE CONSONNI,8/3/2021 9:36,8/3/2021 9:50
+950,Ciclismo,Pista - Eliminatorie Team Pursuit U  ITA - NZL,Izu Velodrome,FILIPPO GANNA,8/3/2021 9:36,8/3/2021 9:50
+951,Ciclismo,Pista - Eliminatorie Team Pursuit U  ITA - NZL,Izu Velodrome,FRANCESCO LAMON,8/3/2021 9:36,8/3/2021 9:50
+952,Ciclismo,Pista - Eliminatorie Team Pursuit U  ITA - NZL,Izu Velodrome,JONATHAN MILAN,8/3/2021 9:36,8/3/2021 9:50
+953,Arrampicata Sportiva,Combinata U - Speed Qualificazioni,Aomi Urban Sports Park,LUDOVICO FOSSALI,8/3/2021 10:00,8/3/2021 11:00
+954,Arrampicata Sportiva,Combinata U - Speed Qualificazioni,Aomi Urban Sports Park,MICHAEL PICCOLRUAZ,8/3/2021 10:00,8/3/2021 11:00
+955,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,SIMONE ANZANI,8/3/2021 10:00,8/3/2021 12:00
+956,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,MASSIMO COLACI,8/3/2021 10:00,8/3/2021 12:00
+957,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,GIANLUCA GALASSI,8/3/2021 10:00,8/3/2021 12:00
+958,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,SIMONE GIANNELLI,8/3/2021 10:00,8/3/2021 12:00
+959,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,OSMANY JUANTORENA,8/3/2021 10:00,8/3/2021 12:00
+960,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,JIRI KOVAR,8/3/2021 10:00,8/3/2021 12:00
+961,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,DANIELE LAVIA,8/3/2021 10:00,8/3/2021 12:00
+962,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,ALESSANDRO MICHIELETTO,8/3/2021 10:00,8/3/2021 12:00
+963,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,MATTEO PIANO,8/3/2021 10:00,8/3/2021 12:00
+964,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,RICCARDO SBERTOLI,8/3/2021 10:00,8/3/2021 12:00
+965,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,LUCA VETTORI,8/3/2021 10:00,8/3/2021 12:00
+966,Pallavolo,Quarto U | Italia - Argentina,Ariake Arena,IVAN ZAYTSEV,8/3/2021 10:00,8/3/2021 12:00
+967,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,SIMONE FONTECCHIO,8/3/2021 10:20,8/3/2021 12:20
+968,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,DANILO GALLINARI,8/3/2021 10:20,8/3/2021 12:20
+969,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,NICCOLÒ MANNION,8/3/2021 10:20,8/3/2021 12:20
+970,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,NICOLÒ MELLI,8/3/2021 10:20,8/3/2021 12:20
+971,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,RICCARDO MORASCHINI,8/3/2021 10:20,8/3/2021 12:20
+972,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,ALESSANDRO PAJOLA,8/3/2021 10:20,8/3/2021 12:20
+973,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,ACHILLE POLONARA,8/3/2021 10:20,8/3/2021 12:20
+974,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,GIAMPAOLO RICCI,8/3/2021 10:20,8/3/2021 12:20
+975,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,MARCO SPISSU,8/3/2021 10:20,8/3/2021 12:20
+976,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,AMEDEO VITTORIO TESSITORI,8/3/2021 10:20,8/3/2021 12:20
+977,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,STEFANO TONUT,8/3/2021 10:20,8/3/2021 12:20
+978,Pallacanestro,Quarti U | Italia - Francia,Saitama Super Arena,MICHELE VITALI,8/3/2021 10:20,8/3/2021 12:20
+979,Arrampicata Sportiva,Combinata U - Bouldering Qualificazioni,Aomi Urban Sports Park,LUDOVICO FOSSALI,8/3/2021 11:00,8/3/2021 14:00
+980,Arrampicata Sportiva,Combinata U - Bouldering Qualificazioni,Aomi Urban Sports Park,MICHAEL PICCOLRUAZ,8/3/2021 11:00,8/3/2021 14:00
+981,Sport Equestri,Salto Ostacoli Individuale - Qualificazione,Equestrian Park,EMANUELE GAUDIANO,8/3/2021 12:00,8/3/2021 15:45
+982,Atletica,110m ostacoli U - Qualificazioni,Olympic Stadium,PAOLO DAL MOLIN,8/3/2021 12:10,8/3/2021 14:55
+983,Atletica,110m ostacoli U - Qualificazioni,Olympic Stadium,HASSANE FOFANA,8/3/2021 12:10,8/3/2021 14:55
+984,Atletica,Peso U - Qualificazioni,Olympic Stadium,LEONARDO FABBRI,8/3/2021 12:15,8/3/2021 14:55
+985,Atletica,Peso U - Qualificazioni,Olympic Stadium,NICHOLAS JAMES PONZIO,8/3/2021 12:15,8/3/2021 14:55
+986,Atletica,Peso U - Qualificazioni,Olympic Stadium,ZANE WEIR,8/3/2021 12:15,8/3/2021 14:55
+987,Nuoto Sincronizzato,Duo programma tecnico,Tokyo Aquatics Centre,LINDA CERRUTI,8/3/2021 12:30,8/3/2021 14:00
+988,Nuoto Sincronizzato,Duo programma tecnico,Tokyo Aquatics Centre,COSTANZA FERRO,8/3/2021 12:30,8/3/2021 14:00
+989,Atletica,5000m U - Qualificazioni,Olympic Stadium,YEMANEBERHAN CRIPPA,8/3/2021 12:56,8/3/2021 14:55
+990,Atletica,Martello D - Finale,Olympic Stadium,SARA FANTINI,8/3/2021 13:35,8/3/2021 14:55
+991,Atletica,200m U - Semifinali (eventuali),Olympic Stadium,ESEOSA FOSTINE DESALU,8/3/2021 13:50,8/3/2021 14:55
+992,Arrampicata Sportiva,Combinata U - Lead Qualificazioni,Aomi Urban Sports Park,LUDOVICO FOSSALI,8/3/2021 14:10,8/3/2021 15:40
+993,Arrampicata Sportiva,Combinata U - Lead Qualificazioni,Aomi Urban Sports Park,MICHAEL PICCOLRUAZ,8/3/2021 14:10,8/3/2021 15:40
+994,Nuoto di Fondo,10km D,Odaiba Marine Park,RACHELE BRUNI,8/3/2021 23:30,8/4/2021 2:10
+995,Golf,Primo giro D,Kasumigaseki Country Club,LUCREZIA COLOMBOTTO ROSSO,8/4/2021 0:30,8/4/2021 8:30
+996,Golf,Primo giro D,Kasumigaseki Country Club,GIULIA MOLINARO,8/4/2021 0:30,8/4/2021 8:30
+997,Atletica,110m ostacoli U - Semifinali,Olympic Stadium,PAOLO DAL MOLIN,8/4/2021 2:00,8/4/2021 5:25
+998,Canoa,Batterie K1 200m U,Sea Forest Waterway,MANFREDI RIZZA,8/4/2021 2:30,8/4/2021 3:05
+999,Canoa,Batterie K1 500m D,Sea Forest Waterway,FRANCESCA GENZO,8/4/2021 3:40,8/4/2021 4:22
+1000,Canoa,Batterie K2 1000m U,Sea Forest Waterway,LUCA BECCARO,8/4/2021 4:22,8/4/2021 5:08
+1001,Canoa,Batterie K2 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/4/2021 4:22,8/4/2021 5:08
+1002,Canoa,Quarti K1 500m D (eventuale),Sea Forest Waterway,FRANCESCA GENZO,8/4/2021 5:50,8/4/2021 6:18
+1003,Canoa,Quarti K2 1000m U (eventuale),Sea Forest Waterway,LUCA BECCARO,8/4/2021 6:18,8/4/2021 6:40
+1004,Canoa,Quarti K2 1000m U (eventuale),Sea Forest Waterway,SAMUELE BURGO,8/4/2021 6:18,8/4/2021 6:40
+1005,Vela,470 U - Medal Race,Enoshima Yacht Harbour,GIULIO CALABRÒ,8/4/2021 7:30,8/4/2021 9:55
+1006,Vela,470 U - Medal Race,Enoshima Yacht Harbour,GIACOMO FERRARI,8/4/2021 7:30,8/4/2021 9:55
+1007,Tuffi,Qualificazioni Piattaforma 10m D,Tokyo Aquatics Centre,NOEMI BATKI,8/4/2021 8:00,8/4/2021 10:30
+1008,Tuffi,Qualificazioni Piattaforma 10m D,Tokyo Aquatics Centre,SARAH JODOIN DI MARIA,8/4/2021 8:00,8/4/2021 10:30
+1009,Arrampicata Sportiva,Combinata D - Speed Qualificazioni,Aomi Urban Sports Park,LAURA ROGORA,8/4/2021 10:00,8/4/2021 11:00
+1010,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,CATERINA BOSETTI,8/4/2021 10:00,8/4/2021 12:00
+1011,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,CRISTINA CHIRICHELLA,8/4/2021 10:00,8/4/2021 12:00
+1012,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,ANNA DANESI,8/4/2021 10:00,8/4/2021 12:00
+1013,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,MONICA DE GENNARO,8/4/2021 10:00,8/4/2021 12:00
+1014,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,PAOLA OGECHI EGONU,8/4/2021 10:00,8/4/2021 12:00
+1015,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,SARAH LUISA FAHR,8/4/2021 10:00,8/4/2021 12:00
+1016,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,RAPHAELA FOLIE,8/4/2021 10:00,8/4/2021 12:00
+1017,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,OFELIA MALINOV,8/4/2021 10:00,8/4/2021 12:00
+1018,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,ALESSIA ORRO,8/4/2021 10:00,8/4/2021 12:00
+1019,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,ELENA PIETRINI,8/4/2021 10:00,8/4/2021 12:00
+1020,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,INDRE SOROKAITE,8/4/2021 10:00,8/4/2021 12:00
+1021,Pallavolo,Quarto D Italia - Sebia,Ariake Arena,MIRIAM FATIME SYLLA,8/4/2021 10:00,8/4/2021 12:00
+1022,Arrampicata Sportiva,Combinata D - Bouldering Qualificazioni,Aomi Urban Sports Park,LAURA ROGORA,8/4/2021 11:00,8/4/2021 14:00
+1023,Ciclismo,Pista - Finale 1-2 posto Team Pursuit U,Izu Velodrome,SIMONE CONSONNI,8/4/2021 11:06,8/4/2021 11:13
+1024,Ciclismo,Pista - Finale 1-2 posto Team Pursuit U,Izu Velodrome,FILIPPO GANNA,8/4/2021 11:06,8/4/2021 11:13
+1025,Ciclismo,Pista - Finale 1-2 posto Team Pursuit U,Izu Velodrome,FRANCESCO LAMON,8/4/2021 11:06,8/4/2021 11:13
+1026,Ciclismo,Pista - Finale 1-2 posto Team Pursuit U,Izu Velodrome,JONATHAN MILAN,8/4/2021 11:06,8/4/2021 11:13
+1027,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,MATTEO AICARDI,8/4/2021 11:20,8/4/2021 14:10
+1028,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,8/4/2021 11:20,8/4/2021 14:10
+1029,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,MARCO DEL LUNGO,8/4/2021 11:20,8/4/2021 14:10
+1030,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,8/4/2021 11:20,8/4/2021 14:10
+1031,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,VINCENZO DOLCE,8/4/2021 11:20,8/4/2021 14:10
+1032,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,8/4/2021 11:20,8/4/2021 14:10
+1033,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,8/4/2021 11:20,8/4/2021 14:10
+1034,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,8/4/2021 11:20,8/4/2021 14:10
+1035,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,STEFANO LUONGO,8/4/2021 11:20,8/4/2021 14:10
+1036,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,8/4/2021 11:20,8/4/2021 14:10
+1037,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,8/4/2021 11:20,8/4/2021 14:10
+1038,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,8/4/2021 11:20,8/4/2021 14:10
+1039,Pallanuoto,Quarti U Italia - Serbia,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,8/4/2021 11:20,8/4/2021 14:10
+1040,Atletica,1500m D - Semifinali,Olympic Stadium,GAIA SABBATINI,8/4/2021 11:30,8/4/2021 15:00
+1041,Nuoto Sincronizzato,Finale Duo programma libero,Tokyo Aquatics Centre,LINDA CERRUTI,8/4/2021 12:30,8/4/2021 14:00
+1042,Nuoto Sincronizzato,Finale Duo programma libero,Tokyo Aquatics Centre,COSTANZA FERRO,8/4/2021 12:30,8/4/2021 14:00
+1043,Arrampicata Sportiva,Combinata D - Lead Qualificazioni,Aomi Urban Sports Park,LAURA ROGORA,8/4/2021 14:10,8/4/2021 15:40
+1044,Beach Volley,Quarti U  ITA - QAT,Shiokaze Park,DANIELE LUPO,8/4/2021 15:00,8/4/2021 16:50
+1045,Beach Volley,Quarti U  ITA - QAT,Shiokaze Park,PAOLO NICOLAI,8/4/2021 15:00,8/4/2021 16:50
+1046,Nuoto di Fondo,10km U,Odaiba Marine Park,GREGORIO PALTRINIERI,8/4/2021 23:30,8/5/2021 2:10
+1047,Nuoto di Fondo,10km U,Odaiba Marine Park,MARIO SANZULLO,8/4/2021 23:30,8/5/2021 2:10
+1048,Golf,Secondo giro D,Kasumigaseki Country Club,LUCREZIA COLOMBOTTO ROSSO,8/5/2021 0:30,8/5/2021 8:30
+1049,Golf,Secondo giro D,Kasumigaseki Country Club,GIULIA MOLINARO,8/5/2021 0:30,8/5/2021 8:30
+1050,Skateboarding,Park - Turni preliminari U,Ariake Urban Sports Park,IVAN FEDERICO,8/5/2021 2:00,8/5/2021 6:40
+1051,Skateboarding,Park - Turni preliminari U,Ariake Urban Sports Park,ALESSANDRO MAZZARA,8/5/2021 2:00,8/5/2021 6:40
+1052,Atletica,Alto D - Qualificazioni,Olympic Stadium,ALESSIA TROST,8/5/2021 2:10,8/5/2021 8:05
+1053,Atletica,Alto D - Qualificazioni,Olympic Stadium,ELENA VALLORTIGARA,8/5/2021 2:10,8/5/2021 8:05
+1054,Canoa,Semifinali K1 200m U,Sea Forest Waterway,MANFREDI RIZZA,8/5/2021 2:30,8/5/2021 2:44
+1055,Tuffi,Semifinali Piattaforma 10m D,Tokyo Aquatics Centre,SARAH JODOIN DI MARIA,8/5/2021 3:00,8/5/2021 4:30
+1056,Karate,Kata - Ranking Round D,Nippon Budokan,VIVIANA BOTTARO,8/5/2021 3:00,8/5/2021 7:35
+1057,Atletica,Staffetta 4x100m D - Qualificazioni,Olympic Stadium,ANNA BONGIORNI,8/5/2021 3:00,8/5/2021 8:05
+1058,Atletica,Staffetta 4x100m D - Qualificazioni,Olympic Stadium,VITTORIA FONTANA,8/5/2021 3:00,8/5/2021 8:05
+1059,Atletica,Staffetta 4x100m D - Qualificazioni,Olympic Stadium,GLORIA HOOPER,8/5/2021 3:00,8/5/2021 8:05
+1060,Atletica,Staffetta 4x100m D - Qualificazioni,Olympic Stadium,IRENE SIRAGUSA,8/5/2021 3:00,8/5/2021 8:05
+1061,Canoa,Semifinali K2 1000m U,Sea Forest Waterway,LUCA BECCARO,8/5/2021 3:26,8/5/2021 4:35
+1062,Canoa,Semifinali K2 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/5/2021 3:26,8/5/2021 4:35
+1063,Atletica,Triplo U - Finale,Olympic Stadium,ANDREA DALLAVALLE,8/5/2021 4:00,8/5/2021 8:05
+1064,Atletica,Triplo U - Finale,Olympic Stadium,CHIEBUKA EMMANUEL IHEMEJE,8/5/2021 4:00,8/5/2021 8:05
+1065,Atletica,Peso U - Finale,Olympic Stadium,ZANE WEIR,8/5/2021 4:05,8/5/2021 8:05
+1066,Lotta,Libera - Ottavi 74 kg U,Makuhari Messe Hall A,FRANK CHAMIZO MARQUEZ,8/5/2021 4:30,8/5/2021 6:30
+1067,Atletica,Staffetta 4x100m U - Qualificazioni,Olympic Stadium,ESEOSA FOSTINE DESALU,8/5/2021 4:30,8/5/2021 8:05
+1068,Atletica,Staffetta 4x100m U - Qualificazioni,Olympic Stadium,LAMONT MARCELL JACOBS,8/5/2021 4:30,8/5/2021 8:05
+1069,Atletica,Staffetta 4x100m U - Qualificazioni,Olympic Stadium,LORENZO PATTA,8/5/2021 4:30,8/5/2021 8:05
+1070,Atletica,Staffetta 4x100m U - Qualificazioni,Olympic Stadium,FILIPPO TORTU,8/5/2021 4:30,8/5/2021 8:05
+1071,Lotta,Libera - Quarti 74 kg U,Makuhari Messe Hall A,FRANK CHAMIZO MARQUEZ,8/5/2021 4:40,8/5/2021 6:30
+1072,Canoa,Finale K1 200m U,Sea Forest Waterway,MANFREDI RIZZA,8/5/2021 4:42,8/5/2021 4:50
+1073,Karate,Kumite - Eliminazioni -67 kg U,Nippon Budokan,ANGELO CRESCENZO,8/5/2021 5:05,8/5/2021 7:35
+1074,Canoa,Finale B K2 1000m U,Sea Forest Waterway,LUCA BECCARO,8/5/2021 5:47,8/5/2021 5:55
+1075,Canoa,Finale B K2 1000m U,Sea Forest Waterway,SAMUELE BURGO,8/5/2021 5:47,8/5/2021 5:55
+1076,Pentathlon Moderno,Individuale D - Scherma,Musashino Forest Sport Plaza,ELENA MICHELI,8/5/2021 6:00,8/5/2021 12:30
+1077,Pentathlon Moderno,Individuale D - Scherma,Musashino Forest Sport Plaza,ALICE SOTERO,8/5/2021 6:00,8/5/2021 12:30
+1078,Ciclismo,Pista - Omnium 1/4 Scratch U,Izu Velodrome,ELIA VIVIANI,8/5/2021 8:30,8/5/2021 8:48
+1079,Ciclismo,Pista - Omnium 2/4 gara a tempo U,Izu Velodrome,ELIA VIVIANI,8/5/2021 9:27,8/5/2021 9:45
+1080,Atletica,20km marcia U - Finale,Sapporo Odori Park,FRANCESCO FORTUNATO,8/5/2021 9:30,8/5/2021 11:05
+1081,Atletica,20km marcia U - Finale,Sapporo Odori Park,MASSIMO STANO,8/5/2021 9:30,8/5/2021 11:05
+1082,Atletica,20km marcia U - Finale,Sapporo Odori Park,FEDERICO TONTODONATI,8/5/2021 9:30,8/5/2021 11:05
+1083,Ciclismo,Pista - Omnium 3/4 gara a eliminazione U,Izu Velodrome,ELIA VIVIANI,8/5/2021 10:07,8/5/2021 10:25
+1084,Ciclismo,Pista - Omnium 4/4 gara a punti U,Izu Velodrome,ELIA VIVIANI,8/5/2021 10:55,8/5/2021 11:27
+1085,Lotta,Libera - Semifinali 74 kg U,Makuhari Messe Hall A,FRANK CHAMIZO MARQUEZ,8/5/2021 11:15,8/5/2021 15:00
+1086,Atletica,Staffetta 4x400m D - Qualificazioni,Olympic Stadium,MARIA BENEDICTA CHIGBOLU,8/5/2021 12:25,8/5/2021 14:45
+1087,Atletica,Staffetta 4x400m D - Qualificazioni,Olympic Stadium,ALICE MANGIONE,8/5/2021 12:25,8/5/2021 14:45
+1088,Atletica,Staffetta 4x400m D - Qualificazioni,Olympic Stadium,REBECCA BORGA,8/5/2021 12:25,8/5/2021 14:45
+1089,Atletica,Staffetta 4x400m D - Qualificazioni,Olympic Stadium,PETRA NARDELLI,8/5/2021 12:25,8/5/2021 14:45
+1090,Karate,Kata - Finali 3-5 posto D,Nippon Budokan,VIVIANA BOTTARO,8/5/2021 12:30,8/5/2021 14:30
+1091,Atletica,50km Marcia U,Sapporo Odori Park,ANDREA AGRUSTI,8/5/2021 22:30,8/6/2021 3:00
+1092,Atletica,50km Marcia U,Sapporo Odori Park,TEODORICO CAPORASO,8/5/2021 22:30,8/6/2021 3:00
+1093,Atletica,50km Marcia U,Sapporo Odori Park,MARCO DE LUCA,8/5/2021 22:30,8/6/2021 3:00
+1094,Golf,Terzo giro D,Kasumigaseki Country Club,LUCREZIA COLOMBOTTO ROSSO,8/6/2021 0:30,8/6/2021 8:30
+1095,Golf,Terzo giro D,Kasumigaseki Country Club,GIULIA MOLINARO,8/6/2021 0:30,8/6/2021 8:30
+1096,Karate,Kata - Eliminazioni U,Nippon Budokan,MATTIA BUSATO,8/6/2021 3:00,8/6/2021 7:35
+1097,Ginnastica,Ritmica - Qualificazioni All-Around Individuale,Ariake Gymnastics Centre,ALEXANDRA AGIURGIUCULESE,8/6/2021 3:20,8/6/2021 6:15
+1098,Ginnastica,Ritmica - Qualificazioni All-Around Individuale,Ariake Gymnastics Centre,MILENA BALDASSARRI,8/6/2021 3:20,8/6/2021 6:15
+1099,Lotta,Libera - Ottavi 97 kg U,Makuhari Messe Hall A,ABRAHAM CONYEDO RUANO,8/6/2021 4:30,8/6/2021 6:30
+1100,Lotta,Libera - Quarti 97 kg U (eventuali),Makuhari Messe Hall A,ABRAHAM CONYEDO RUANO,8/6/2021 5:00,8/6/2021 6:30
+1101,Pentathlon Moderno,Individuale D - Nuoto,Tokyo Stadium,ELENA MICHELI,8/6/2021 7:30,8/6/2021 13:15
+1102,Pentathlon Moderno,Individuale D - Nuoto,Tokyo Stadium,ALICE SOTERO,8/6/2021 7:30,8/6/2021 13:15
+1103,Pentathlon Moderno,Individuale D - Scherma Bonus Round,Tokyo Stadium,ELENA MICHELI,8/6/2021 8:45,8/6/2021 13:15
+1104,Pentathlon Moderno,Individuale D - Scherma Bonus Round,Tokyo Stadium,ALICE SOTERO,8/6/2021 8:45,8/6/2021 13:15
+1105,Atletica,20km Marcia D,Sapporo Odori Park,ELEONORA ANNA GIORGI,8/6/2021 9:30,8/6/2021 11:15
+1106,Atletica,20km Marcia D,Sapporo Odori Park,ANTONELLA PALMISANO,8/6/2021 9:30,8/6/2021 11:15
+1107,Atletica,20km Marcia D,Sapporo Odori Park,VALENTINA TRAPLETTI,8/6/2021 9:30,8/6/2021 11:15
+1108,Karate,Kumite - Eliminazioni -75 kg U,Nippon Budokan,LUIGI BUSÀ,8/6/2021 10:00,8/6/2021 14:30
+1109,Ciclismo,Pista - Finale Madison D,Izu Velodrome,ELISA BALSAMO,8/6/2021 10:15,8/6/2021 12:15
+1110,Ciclismo,Pista - Finale Madison D,Izu Velodrome,LETIZIA PATERNOSTER,8/6/2021 10:15,8/6/2021 12:15
+1111,Pentathlon Moderno,Individuale D - Equitazione,Tokyo Stadium,ELENA MICHELI,8/6/2021 10:15,8/6/2021 13:15
+1112,Pentathlon Moderno,Individuale D - Equitazione,Tokyo Stadium,ALICE SOTERO,8/6/2021 10:15,8/6/2021 13:15
+1113,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,MATTEO AICARDI,8/6/2021 11:20,8/6/2021 14:10
+1114,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,8/6/2021 11:20,8/6/2021 14:10
+1115,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,MARCO DEL LUNGO,8/6/2021 11:20,8/6/2021 14:10
+1116,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,8/6/2021 11:20,8/6/2021 14:10
+1117,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,VINCENZO DOLCE,8/6/2021 11:20,8/6/2021 14:10
+1118,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,8/6/2021 11:20,8/6/2021 14:10
+1119,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,8/6/2021 11:20,8/6/2021 14:10
+1120,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,8/6/2021 11:20,8/6/2021 14:10
+1121,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,STEFANO LUONGO,8/6/2021 11:20,8/6/2021 14:10
+1122,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,8/6/2021 11:20,8/6/2021 14:10
+1123,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,8/6/2021 11:20,8/6/2021 14:10
+1124,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,8/6/2021 11:20,8/6/2021 14:10
+1125,Pallanuoto,Classificazione 5-8 posto | Italia - USA,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,8/6/2021 11:20,8/6/2021 14:10
+1126,Lotta,Libera - Finali 3-5 posto 74 kg U,Makuhari Messe Hall A,FRANK CHAMIZO MARQUEZ,8/6/2021 11:45,8/6/2021 15:00
+1127,Pentathlon Moderno,Individuale D - Laser Run,Tokyo Stadium,ELENA MICHELI,8/6/2021 12:30,8/6/2021 13:15
+1128,Pentathlon Moderno,Individuale D - Laser Run,Tokyo Stadium,ALICE SOTERO,8/6/2021 12:30,8/6/2021 13:15
+1129,Karate,Kumite - Semifinali -75 kg U (eventuali),Nippon Budokan,LUIGI BUSÀ,8/6/2021 13:22,8/6/2021 14:30
+1130,Atletica,Staffetta 4x400m U - Qualificazioni,Olympic Stadium,VLADIMIR ACETI,8/6/2021 13:25,8/6/2021 15:55
+1131,Atletica,Staffetta 4x400m U - Qualificazioni,Olympic Stadium,DAVIDE RE,8/6/2021 13:25,8/6/2021 15:55
+1132,Atletica,Staffetta 4x400m U - Qualificazioni,Olympic Stadium,EDOARDO SCOTTI,8/6/2021 13:25,8/6/2021 15:55
+1133,Atletica,Staffetta 4x400m U - Qualificazioni,Olympic Stadium,ALESSANDRO SIBILIO,8/6/2021 13:25,8/6/2021 15:55
+1134,Atletica,Staffetta 4x100m U - Finale,Olympic Stadium,ESEOSA FOSTINE DESALU,8/6/2021 15:50,8/6/2021 15:55
+1135,Atletica,Staffetta 4x100m U - Finale,Olympic Stadium,LAMONT MARCELL JACOBS,8/6/2021 15:50,8/6/2021 15:55
+1136,Atletica,Staffetta 4x100m U - Finale,Olympic Stadium,LORENZO PATTA,8/6/2021 15:50,8/6/2021 15:55
+1137,Atletica,Staffetta 4x100m U - Finale,Olympic Stadium,FILIPPO TORTU,8/6/2021 15:50,8/6/2021 15:55
+1138,Atletica,Maratona D,Sapporo Odori Park,GIOVANNA EPIS,8/7/2021 0:00,8/7/2021 3:15
+1139,Golf,Quarto giro D,Kasumigaseki Country Club,LUCREZIA COLOMBOTTO ROSSO,8/7/2021 0:30,8/7/2021 8:30
+1140,Golf,Quarto giro D,Kasumigaseki Country Club,GIULIA MOLINARO,8/7/2021 0:30,8/7/2021 8:30
+1141,Ginnastica,Ritmica - Qualificazioni All-Around Gruppi,Ariake Gymnastics Centre,MARTINA CENTOFANTI,8/7/2021 3:00,8/7/2021 5:40
+1142,Ginnastica,Ritmica - Qualificazioni All-Around Gruppi,Ariake Gymnastics Centre,AGNESE DURANTI,8/7/2021 3:00,8/7/2021 5:40
+1143,Ginnastica,Ritmica - Qualificazioni All-Around Gruppi,Ariake Gymnastics Centre,ALESSIA MAURELLI,8/7/2021 3:00,8/7/2021 5:40
+1144,Ginnastica,Ritmica - Qualificazioni All-Around Gruppi,Ariake Gymnastics Centre,DANIELA MOGUREAN,8/7/2021 3:00,8/7/2021 5:40
+1145,Ginnastica,Ritmica - Qualificazioni All-Around Gruppi,Ariake Gymnastics Centre,MARTINA SANTANDREA,8/7/2021 3:00,8/7/2021 5:40
+1146,Karate,Kumite - Eliminazioni +61 kg D,Nippon Budokan,SILVIA SEMERARO,8/7/2021 7:00,8/7/2021 13:15
+1147,Ginnastica,Ritmica - Finale All-Around Individuale,Ariake Gymnastics Centre,MILENA BALDASSARRI,8/7/2021 8:20,8/7/2021 11:00
+1148,Ciclismo,Pista - Finale Madison U,Izu Velodrome,SIMONE CONSONNI,8/7/2021 9:55,8/7/2021 11:25
+1149,Ciclismo,Pista - Finale Madison U,Izu Velodrome,ELIA VIVIANI,8/7/2021 9:55,8/7/2021 11:25
+1150,Lotta,Libera - Ripescaggi 97 kg U,Makuhari Messe Hall A,ABRAHAM CONYEDO RUANO,8/7/2021 11:45,8/7/2021 15:00
+1151,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,BEATRICE CALLEGARI,8/7/2021 12:30,8/7/2021 14:10
+1152,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,DOMIZIANA CAVANNA,8/7/2021 12:30,8/7/2021 14:10
+1153,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,LINDA CERRUTI,8/7/2021 12:30,8/7/2021 14:10
+1154,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,FRANCESCA DEIDDA,8/7/2021 12:30,8/7/2021 14:10
+1155,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,COSTANZA DI CAMILLO,8/7/2021 12:30,8/7/2021 14:10
+1156,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,COSTANZA FERRO,8/7/2021 12:30,8/7/2021 14:10
+1157,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,GEMMA GALLI,8/7/2021 12:30,8/7/2021 14:10
+1158,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,ENRICA PICCOLI,8/7/2021 12:30,8/7/2021 14:10
+1159,Nuoto Sincronizzato,Squadre programma libero,Tokyo Aquatics Centre,FEDERICA SALA,8/7/2021 12:30,8/7/2021 14:10
+1160,Lotta,Libera - Finali 3-5 posto 97 kg U,Makuhari Messe Hall A,ABRAHAM CONYEDO RUANO,8/7/2021 12:30,8/7/2021 15:00
+1161,Atletica,Staffetta 4x400m U - Finale,Olympic Stadium,VLADIMIR ACETI,8/7/2021 14:50,8/7/2021 15:20
+1162,Atletica,Staffetta 4x400m U - Finale,Olympic Stadium,DAVIDE RE,8/7/2021 14:50,8/7/2021 15:20
+1163,Atletica,Staffetta 4x400m U - Finale,Olympic Stadium,EDOARDO SCOTTI,8/7/2021 14:50,8/7/2021 15:20
+1164,Atletica,Staffetta 4x400m U - Finale,Olympic Stadium,ALESSANDRO SIBILIO,8/7/2021 14:50,8/7/2021 15:20
+1165,Atletica,Maratona U,Sapporo Odori Park,YASSINE EL FATHAOUI,8/8/2021 0:00,8/8/2021 2:25
+1166,Atletica,Maratona U,Sapporo Odori Park,EYOB GHEBREHIWET FANIEL,8/8/2021 0:00,8/8/2021 2:25
+1167,Atletica,Maratona U,Sapporo Odori Park,YASSINE RACHIK,8/8/2021 0:00,8/8/2021 2:25
+1168,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,MATTEO AICARDI,8/8/2021 2:30,8/8/2021 5:20
+1169,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,MICHAEL ALEXANDER BODEGAS,8/8/2021 2:30,8/8/2021 5:20
+1170,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,MARCO DEL LUNGO,8/8/2021 2:30,8/8/2021 5:20
+1171,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,FRANCESCO DI FULVIO,8/8/2021 2:30,8/8/2021 5:20
+1172,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,VINCENZO DOLCE,8/8/2021 2:30,8/8/2021 5:20
+1173,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,OSCAR GONZALO ECHENIQUE,8/8/2021 2:30,8/8/2021 5:20
+1174,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,NICCOLÒ FIGARI,8/8/2021 2:30,8/8/2021 5:20
+1175,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,PIETRO FIGLIOLI,8/8/2021 2:30,8/8/2021 5:20
+1176,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,STEFANO LUONGO,8/8/2021 2:30,8/8/2021 5:20
+1177,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,GIANMARCO NICOSIA,8/8/2021 2:30,8/8/2021 5:20
+1178,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,NICHOLAS PRESCIUTTI,8/8/2021 2:30,8/8/2021 5:20
+1179,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,VINCENZO RENZUTO IODICE,8/8/2021 2:30,8/8/2021 5:20
+1180,Pallanuoto,Finale 7-8 posto U | Italia - Montenegro,Tatsumi Water Polo Centre,ALESSANDRO VELOTTO,8/8/2021 2:30,8/8/2021 5:20
+1181,Ciclismo,Pista - Omnuim Scratch D,Izu Velodrome,ELISA BALSAMO,8/8/2021 3:00,8/8/2021 6:15
+1182,Ciclismo,Pista - Omnium gara a tempo D,Izu Velodrome,ELISA BALSAMO,8/8/2021 3:45,8/8/2021 6:15
+1183,Ginnastica,Ritmica - Finale All-Around Gruppi,Ariake Gymnastics Centre,MARTINA CENTOFANTI,8/8/2021 4:00,8/8/2021 5:55
+1184,Ginnastica,Ritmica - Finale All-Around Gruppi,Ariake Gymnastics Centre,AGNESE DURANTI,8/8/2021 4:00,8/8/2021 5:55
+1185,Ginnastica,Ritmica - Finale All-Around Gruppi,Ariake Gymnastics Centre,ALESSIA MAURELLI,8/8/2021 4:00,8/8/2021 5:55
+1186,Ginnastica,Ritmica - Finale All-Around Gruppi,Ariake Gymnastics Centre,DANIELA MOGUREAN,8/8/2021 4:00,8/8/2021 5:55
+1187,Ginnastica,Ritmica - Finale All-Around Gruppi,Ariake Gymnastics Centre,MARTINA SANTANDREA,8/8/2021 4:00,8/8/2021 5:55
+1188,Ciclismo,Pista - Omnium gara a eliminazione D,Izu Velodrome,ELISA BALSAMO,8/8/2021 4:26,8/8/2021 6:15
+1189,Ciclismo,Pista - Omnium gara a punti D,Izu Velodrome,ELISA BALSAMO,8/8/2021 5:25,8/8/2021 6:15
