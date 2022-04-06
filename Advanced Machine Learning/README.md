@@ -7,4 +7,4 @@ Correctly rotating an image is a simple task for a human being, but it turns out
 tedious, time-consuming and error-prone activity. The goal is therefore to exploit convolutional neural networks (CNNs) to automatically orient the images by multiple angles of 90°.
 
 ## Methodological Approach
-More informations can be found in the [report](https://public.tableau.com/app/profile/serena.di.maggio/viz/shared/NDFJQJSS3 "Report").
+More informations can be found in the [report](https://github.com/mcampironi/DSProjects/blob/main/Advanced%20Machine%20Learning/Report.pdf "Report").
