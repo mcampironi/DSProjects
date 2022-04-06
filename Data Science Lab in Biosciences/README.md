@@ -19,4 +19,4 @@ Il seguente progetto è stato utile per imparare a lavorare con dati biologici, 
 *L'idea è di utilizzare le sequenze presenti su GISAID per stimare la diffusione delle varianti negli USA*
 
 ## Risultati
-È possibile approfondire i risultati leggendo la presentazione[presentazione](https://github.com/mcampironi/DSProjects/blob/main/Data%20Science%20Lab%20in%20Biosciences/BIOLAB.pdf "Presentazione"). e navigando sulla [dashboard Tableau](https://public.tableau.com/app/profile/matteo.campironi/viz/Specter/Dashboard1 "Dashboard Tableau").
+È possibile approfondire i risultati leggendo la [presentazione](https://github.com/mcampironi/DSProjects/blob/main/Data%20Science%20Lab%20in%20Biosciences/BIOLAB.pdf "Presentazione"). e navigando sulla [dashboard Tableau](https://public.tableau.com/app/profile/matteo.campironi/viz/Specter/Dashboard1 "Dashboard Tableau").
