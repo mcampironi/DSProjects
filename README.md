@@ -5,6 +5,8 @@ Hi 👋, I'm Matteo and in this repository you can find all my university projec
 ## 🖥️ Introductory classes
 - [Foundations of Computer Science](https://github.com/mcampironi/DSProjects/tree/main/Foundations%20of%20Computer%20Science "Foundations of Computer Science")
 -  [Machine Learning](https://github.com/mcampironi/DSProjects/tree/main/Machine%20Learning "Machine Learning")
+-  [Cybersecurity for Data Science](https://github.com/mcampironi/DSProjects/tree/main/Cybersecurity%20for%20Data%20Science "Cybersecurity for Data Science")
+
 ## 📊 Data Management
 -  [Data Management and Visualization](https://github.com/mcampironi/DSProjects/tree/main/Data%20Management%20and%20Visualization "Data Management and Visualization")
 ## 👁️ Computer Vision 
