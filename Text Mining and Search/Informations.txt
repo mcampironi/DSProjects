@@ -1,0 +1,12 @@
+PROGETTO TEXT MINING A.A 2020/2021 - MATTEO CAMPIRONI 801850, SERENA DI MAGGIO 821063
+
+Il progetto è composto da 3 notebook:
+
+1) Preprocessing.ipynb: Effettua la lettura dei file e il preprocessing. Resituisce in output un file df.csv che è necessario per il funzionamento dei due notebook restanti.
+2) LSA.ipynb: Effettua la Text Summarization utilizzando LSA e valuta utilizzando rouge. Salva un file df_LSA.csv con i riassunti.
+3) TextRank.ipynb: Effettua la Text Summarization utilizzando TextRank e valuta utilizzando rouge. Salva un file df_TR.csv con i riassunti.
+
+Nella cartella OutputNotebook sono presenti gli output dei notebook. 
+Per il corretto funzionamento è necessario scaricare il dataset CNN/DailyMail ("Stories") dal seguente link: https://cs.nyu.edu/~kcho/DMQA/
+Nel caso si dovesse far girare il codice modificare le stringhe con i percorsi delle directory "cnn_stories" e "dailymail_stories" nel notebook "Preprocessing.ipynb".
+Viene fornito anche un conda environment per installare tutte librerie necessarie a far girare il codice.
