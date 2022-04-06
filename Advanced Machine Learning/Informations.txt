@@ -1,0 +1,22 @@
+Progetto Advanced Machine Learning - A.A. 2020/2021
+Matteo Campironi 801850, Serena Di Maggio 821063
+
+## MODELLI
+
+Dentro la cartella 'Modelli' sono contenuti i seguenti file per ogni modello:
+- CSV con i risultati di accuracy e loss su train/validation
+- File .h5 contenente il corrispondente modello
+- Notebook con il codice 
+
+## DATASETS
+
+Dal momento che il codice è stato fatto girare su Colab/Kaggle Kernels si è rivelato necessario ridurre al minimo il costo computazionale, di conseguenza tutte le immagini (train/val/test) sono state prima portate alla risoluzione di 224x224 con padding composto da pixel neri dove necessario. In questo modo il peso del dataset è diminuito notevolmente, riducendo i tempi di caricamento dello stesso sui notebook in cloud. Per far ciò si è utilizzato il notebook 'Image padding function', che se aperto contiene un esempio di come agisce la funzione. 
+
+- dataset: dataset originale creato con immagini prese da flickr
+- data224: dataset ridotto
+
+Inoltre anche i dataset VOC2012, SUN2012 e INRIA sono forniti nelle loro versioni ridotte, in quanto meno pesanti e facilmente reperibili nelle loro versioni originali.
+
+## TEST
+
+Il notebook 'TestModelli' contiene i risultati ottenuti dai modelli sui vari test set.
