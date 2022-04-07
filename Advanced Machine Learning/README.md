@@ -1,6 +1,6 @@
 # Advanced Machine Learning Project
 
-![AML1](https://user-images.githubusercontent.com/56127645/162187024-1896e5c1-4b49-4285-b7d7-ec11048f7dca.png)
+![AML1](https://user-images.githubusercontent.com/56127645/162194216-591c7933-cea1-423d-89b0-9748ce76fc8e.png)
 
 
 ## Introduction
