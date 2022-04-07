@@ -1,6 +1,6 @@
 # Data Management and Visualization Project
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![DMDV](https://user-images.githubusercontent.com/56127645/162185441-b221b5c6-c4ca-4ddc-8971-8e42068ad65d.png)
 
 ## Introduzione
  A causa della pandemia di COVID-19 le Olimpiadi di Tokyo 2020 si sono svolte senza pubblico. L'unico modo per seguirle dall'Italia era quindi accendere la televisione o vederle via streaming web. Un ulteriore ostacolo per il nostro paese è stata anche la differenza di fuso orario di ben 8 ore, che ha costretto gli appassionati a guardare gli eventi durante la notte per la maggior parte dei giochi olimpici.
