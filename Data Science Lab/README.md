@@ -1,6 +1,6 @@
 # Data Science Lab Project
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![DSL](https://user-images.githubusercontent.com/56127645/162196272-2f760182-1d6a-4456-97d5-92142248b7e5.png)
 
 ## Che cos'è il DEMS?
 Il DEMS è il Dipartimento di Economia, Metodi Quantitativi e Strategie di Impresa dell’Università degli studi di Milano Bicocca. Nasce nel 2012 dall’unione di tre settori disciplinari: Economia, Economia e Gestione delle imprese, Statistica.
