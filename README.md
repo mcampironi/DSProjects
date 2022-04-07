@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Hi 👋, I'm Matteo and in this repository you can find all my university projects. Not all files are uploaded due to size limitations. 
+Hi 👋, I'm Matteo and in this repository you can find all my university projects. Not all files (such as the models) are uploaded due to size limitations. 
 
 ## 🖥️ Introductory classes
 - [Foundations of Computer Science](https://github.com/mcampironi/DSProjects/tree/main/Foundations%20of%20Computer%20Science "Foundations of Computer Science")
