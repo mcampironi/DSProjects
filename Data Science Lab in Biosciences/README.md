@@ -1,6 +1,6 @@
 # Data Science Lab in Biosciences Project
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![Bio](https://user-images.githubusercontent.com/56127645/162196746-6520e83d-e77b-468a-ac87-0f65ac130087.png)
 
 ## Obiettivi
 Il seguente progetto è stato utile per imparare a lavorare con dati biologici, come per esempio le sequenze di DNA (FASTA) ed analizzare (es. Pangolin). Inoltre sono stati appresi i fondamenti per accedere alle risorse di dati di questo ambito.
