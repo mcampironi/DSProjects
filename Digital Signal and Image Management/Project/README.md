@@ -1,5 +1,7 @@
 # Digital Signal and Image Processing - Final Project
 
+![DSIM](https://user-images.githubusercontent.com/56127645/162195821-bf79bb40-9c64-4631-92f8-ae3cbdf5b361.png)
+
 ## Introduction
 The main goal of this project is to retrieve the most similar clothes in our database based on an input picture given by an user. The idea was to use an R-CNN to identify the item of clothing in the picture, and then to use a trained CNN to extract the features and employ a K-D Tree to retrieve the top-5 most similar garments.
 
