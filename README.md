@@ -1,4 +1,6 @@
 # Data Science Projects
+![logo](https://user-images.githubusercontent.com/56127645/162198692-713eb186-823e-4c69-a86c-5a327b64581a.png)
+
 
 Hi 👋, I'm Matteo and in this repository you can find all my university projects. Not all files are uploaded due to size limitations (such as the models). 
 
